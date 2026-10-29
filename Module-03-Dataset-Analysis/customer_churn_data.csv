@@ -1,0 +1,1001 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,InternetService,TechSupport,Contract,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+TEL-2000,Female,0,Yes,No,10,Fiber optic,Yes,Month-to-month,Credit card,70.86,711.77,Yes
+TEL-2001,Male,0,No,No,54,DSL,Yes,Two year,Bank transfer,48.77,2633.14,No
+TEL-2002,Female,0,No,Yes,24,No,No internet service,One year,Bank transfer,18.69,445.15,No
+TEL-2003,Male,1,Yes,Yes,38,DSL,Yes,One year,Bank transfer,62.73,2383.6,No
+TEL-2004,Female,0,No,No,25,No,No internet service,Month-to-month,Credit card,22.54,559.32,No
+TEL-2005,Female,0,No,Yes,14,DSL,Yes,Month-to-month,Mailed check,71.75,984.19,No
+TEL-2006,Male,1,No,No,1,DSL,Yes,Month-to-month,Credit card,38.06,38.18,Yes
+TEL-2007,Male,0,Yes,Yes,44,No,No internet service,Two year,Mailed check,20.91,916.83,No
+TEL-2008,Female,1,No,No,28,Fiber optic,Yes,One year,Credit card,96.1,2681.26,Yes
+TEL-2009,Female,1,Yes,No,35,DSL,Yes,One year,Credit card,66.43,2336.02,Yes
+TEL-2010,Female,0,Yes,Yes,14,Fiber optic,No,Month-to-month,Mailed check,93.15,1310.79,Yes
+TEL-2011,Male,1,Yes,No,56,No,No internet service,Two year,Bank transfer,18.68,1070.47,No
+TEL-2012,Female,0,No,Yes,50,No,No internet service,Two year,Mailed check,22.23,1119.85,No
+TEL-2013,Female,0,No,No,25,Fiber optic,No,Month-to-month,Electronic check,89.93,2241.82,Yes
+TEL-2014,Female,0,No,No,18,DSL,Yes,Month-to-month,Electronic check,64.72,1155.9,No
+TEL-2015,Female,1,No,No,4,No,No internet service,Month-to-month,Mailed check,18.0,67.06,Yes
+TEL-2016,Male,0,Yes,No,37,Fiber optic,No,Month-to-month,Credit card,99.52,3675.57,No
+TEL-2017,Male,0,Yes,No,0,DSL,No,Month-to-month,Electronic check,62.09, ,Yes
+TEL-2018,Male,0,Yes,Yes,14,No,No internet service,Month-to-month,Electronic check,21.56,302.93,No
+TEL-2019,Female,0,Yes,Yes,33,Fiber optic,No,Month-to-month,Credit card,82.35,2702.16,Yes
+TEL-2020,Female,0,Yes,No,47,DSL,No,One year,Credit card,54.35,2560.92,No
+TEL-2021,Female,0,Yes,No,0,Fiber optic,No,Month-to-month,Bank transfer,80.39, ,Yes
+TEL-2022,Male,0,Yes,No,5,No,No internet service,Month-to-month,Credit card,18.0,90.91,No
+TEL-2023,Male,0,Yes,No,0,No,No internet service,Month-to-month,Mailed check,20.3, ,No
+TEL-2024,Male,0,Yes,No,6,No,No internet service,Month-to-month,Mailed check,21.19,132.46,No
+TEL-2025,Male,0,Yes,No,50,DSL,Yes,One year,Bank transfer,65.57,3267.06,No
+TEL-2026,Female,0,No,No,1,No,No internet service,Month-to-month,Electronic check,19.53,22.0,No
+TEL-2027,Male,1,No,No,28,No,No internet service,Month-to-month,Electronic check,20.83,596.23,No
+TEL-2028,Male,0,No,No,13,Fiber optic,Yes,One year,Credit card,70.0,901.39,No
+TEL-2029,Female,1,Yes,Yes,24,No,No internet service,Month-to-month,Mailed check,19.1,449.52,No
+TEL-2030,Male,0,Yes,Yes,16,Fiber optic,No,One year,Electronic check,87.92,1413.84,Yes
+TEL-2031,Female,0,No,Yes,1,DSL,No,Month-to-month,Bank transfer,62.0,52.31,No
+TEL-2032,Female,0,Yes,Yes,19,Fiber optic,No,Month-to-month,Bank transfer,71.16,1349.71,Yes
+TEL-2033,Female,0,Yes,No,47,Fiber optic,Yes,Two year,Mailed check,96.55,4552.61,No
+TEL-2034,Female,0,Yes,No,69,Fiber optic,Yes,Two year,Bank transfer,103.57,7137.59,No
+TEL-2035,Female,0,Yes,No,57,DSL,Yes,Two year,Bank transfer,68.14,3899.42,No
+TEL-2036,Male,0,Yes,No,12,Fiber optic,Yes,Month-to-month,Mailed check,94.53,1131.0,Yes
+TEL-2037,Male,0,Yes,No,18,DSL,No,Month-to-month,Credit card,67.51,1203.97,No
+TEL-2038,Female,0,No,Yes,57,Fiber optic,Yes,One year,Credit card,85.41,4874.41,No
+TEL-2039,Male,0,Yes,Yes,15,Fiber optic,No,Month-to-month,Bank transfer,79.36,1191.48,No
+TEL-2040,Female,0,Yes,Yes,13,DSL,No,Month-to-month,Credit card,60.59,787.8,No
+TEL-2041,Male,0,No,No,17,DSL,No,Month-to-month,Credit card,68.27,1152.9,Yes
+TEL-2042,Male,1,Yes,Yes,19,Fiber optic,No,Month-to-month,Bank transfer,86.66,1647.54,Yes
+TEL-2043,Male,0,Yes,Yes,62,DSL,No,Two year,Credit card,48.44,2982.6,No
+TEL-2044,Male,0,No,No,3,No,No internet service,Month-to-month,Bank transfer,21.36,66.27,No
+TEL-2045,Male,0,Yes,No,40,DSL,Yes,One year,Electronic check,53.38,2148.17,No
+TEL-2046,Male,0,Yes,Yes,2,Fiber optic,Yes,Month-to-month,Mailed check,78.52,139.39,Yes
+TEL-2047,Male,0,No,No,12,Fiber optic,No,Month-to-month,Mailed check,98.59,1179.01,Yes
+TEL-2048,Female,0,Yes,No,8,No,No internet service,Month-to-month,Credit card,21.19,160.77,Yes
+TEL-2049,Female,0,No,No,4,Fiber optic,No,Month-to-month,Credit card,91.03,349.01,Yes
+TEL-2050,Female,0,No,No,58,No,No internet service,Two year,Credit card,19.94,1135.99,No
+TEL-2051,Male,0,Yes,Yes,43,DSL,Yes,One year,Mailed check,60.12,2573.35,No
+TEL-2052,Male,0,No,Yes,61,No,No internet service,Two year,Electronic check,20.29,1235.27,No
+TEL-2053,Female,1,No,No,45,DSL,Yes,Two year,Electronic check,53.27,2408.64,No
+TEL-2054,Female,0,Yes,No,51,No,No internet service,One year,Mailed check,19.44,976.21,No
+TEL-2055,Male,1,No,No,58,Fiber optic,Yes,Two year,Electronic check,82.07,4763.0,No
+TEL-2056,Female,0,Yes,No,2,DSL,Yes,Month-to-month,Mailed check,68.77,139.74,No
+TEL-2057,Female,0,No,No,16,Fiber optic,No,Month-to-month,Electronic check,78.26,1268.88,Yes
+TEL-2058,Female,0,Yes,No,0,DSL,No,Month-to-month,Bank transfer,65.78, ,No
+TEL-2059,Female,0,Yes,No,66,DSL,Yes,Month-to-month,Bank transfer,57.12,3775.63,No
+TEL-2060,Male,0,Yes,No,15,No,No internet service,Month-to-month,Mailed check,18.0,276.29,No
+TEL-2061,Female,0,No,Yes,1,No,No internet service,Month-to-month,Electronic check,22.88,29.87,No
+TEL-2062,Female,0,Yes,No,52,DSL,No,Two year,Credit card,64.13,3325.52,No
+TEL-2063,Female,0,Yes,Yes,8,Fiber optic,No,Month-to-month,Electronic check,102.73,816.11,No
+TEL-2064,Female,0,Yes,Yes,2,Fiber optic,No,Month-to-month,Bank transfer,83.38,177.93,Yes
+TEL-2065,Male,0,No,No,4,DSL,No,Month-to-month,Bank transfer,56.98,207.41,Yes
+TEL-2066,Female,0,No,Yes,17,Fiber optic,Yes,Month-to-month,Electronic check,89.0,1506.18,No
+TEL-2067,Female,0,No,Yes,54,Fiber optic,No,Two year,Electronic check,88.35,4757.59,No
+TEL-2068,Female,0,No,Yes,24,Fiber optic,No,Month-to-month,Credit card,98.84,2374.5,Yes
+TEL-2069,Female,1,No,No,42,Fiber optic,No,Two year,Credit card,88.94,3731.26,No
+TEL-2070,Female,0,Yes,No,40,Fiber optic,No,One year,Electronic check,84.29,3377.86,No
+TEL-2071,Male,1,No,No,34,Fiber optic,No,Month-to-month,Electronic check,82.64,2808.67,Yes
+TEL-2072,Female,0,No,Yes,2,Fiber optic,Yes,Month-to-month,Electronic check,86.18,156.9,Yes
+TEL-2073,Female,0,No,No,46,Fiber optic,Yes,Two year,Electronic check,86.79,3977.34,No
+TEL-2074,Male,0,No,No,48,No,No internet service,One year,Mailed check,20.58,987.78,No
+TEL-2075,Female,0,Yes,No,36,Fiber optic,Yes,One year,Electronic check,85.55,3072.09,Yes
+TEL-2076,Male,1,Yes,No,44,Fiber optic,No,One year,Credit card,93.7,4117.47,No
+TEL-2077,Female,0,No,Yes,25,DSL,Yes,Month-to-month,Bank transfer,50.12,1262.38,No
+TEL-2078,Male,0,No,No,18,Fiber optic,No,Month-to-month,Mailed check,86.67,1567.65,Yes
+TEL-2079,Male,0,No,No,6,No,No internet service,Month-to-month,Electronic check,18.0,125.98,No
+TEL-2080,Female,0,No,No,54,DSL,No,Two year,Bank transfer,59.26,3196.88,No
+TEL-2081,Male,1,No,No,40,Fiber optic,No,One year,Mailed check,105.26,4203.99,No
+TEL-2082,Female,0,Yes,No,12,Fiber optic,Yes,Month-to-month,Bank transfer,79.28,955.54,Yes
+TEL-2083,Male,0,No,No,0,No,No internet service,Month-to-month,Electronic check,25.99, ,No
+TEL-2084,Male,0,Yes,No,3,No,No internet service,Month-to-month,Electronic check,22.56,62.07,Yes
+TEL-2085,Female,0,Yes,No,9,DSL,Yes,Month-to-month,Credit card,51.29,456.33,No
+TEL-2086,Male,0,Yes,No,52,DSL,Yes,One year,Electronic check,53.9,2800.78,Yes
+TEL-2087,Female,0,No,Yes,35,Fiber optic,No,One year,Electronic check,88.25,3105.28,No
+TEL-2088,Male,0,Yes,No,54,No,No internet service,Two year,Mailed check,20.18,1096.76,No
+TEL-2089,Male,0,Yes,No,8,Fiber optic,No,Month-to-month,Credit card,82.18,665.53,Yes
+TEL-2090,Female,0,No,No,3,No,No internet service,Month-to-month,Mailed check,22.82,84.54,Yes
+TEL-2091,Female,0,Yes,Yes,48,DSL,Yes,One year,Bank transfer,61.4,2956.23,No
+TEL-2092,Male,0,No,No,39,DSL,Yes,One year,Electronic check,64.7,2511.99,No
+TEL-2093,Female,0,No,No,41,DSL,Yes,One year,Bank transfer,48.24,1986.71,No
+TEL-2094,Female,0,No,No,10,Fiber optic,No,One year,Mailed check,70.0,710.14,No
+TEL-2095,Male,0,No,No,22,Fiber optic,No,Month-to-month,Electronic check,109.86,2423.44,Yes
+TEL-2096,Male,0,Yes,No,2,Fiber optic,No,Month-to-month,Electronic check,87.4,172.85,Yes
+TEL-2097,Female,0,No,Yes,34,Fiber optic,No,Month-to-month,Mailed check,95.35,3247.36,Yes
+TEL-2098,Male,0,Yes,No,10,DSL,Yes,Month-to-month,Mailed check,56.93,569.1,Yes
+TEL-2099,Female,0,No,Yes,1,Fiber optic,No,Month-to-month,Mailed check,81.94,72.16,Yes
+TEL-2100,Female,0,Yes,Yes,2,Fiber optic,No,Month-to-month,Mailed check,113.62,219.94,No
+TEL-2101,Female,0,No,No,27,No,No internet service,One year,Mailed check,25.5,695.54,No
+TEL-2102,Female,0,Yes,No,1,No,No internet service,Month-to-month,Electronic check,22.46,13.4,Yes
+TEL-2103,Female,0,Yes,No,47,No,No internet service,Month-to-month,Mailed check,18.0,837.88,No
+TEL-2104,Female,0,Yes,No,42,No,No internet service,Two year,Electronic check,22.69,960.51,No
+TEL-2105,Male,0,Yes,No,20,Fiber optic,No,Month-to-month,Electronic check,102.34,2048.14,Yes
+TEL-2106,Female,0,No,No,5,Fiber optic,Yes,Month-to-month,Mailed check,107.92,545.37,No
+TEL-2107,Male,0,Yes,Yes,52,DSL,No,One year,Mailed check,52.4,2712.51,No
+TEL-2108,Female,0,No,No,3,DSL,Yes,Month-to-month,Credit card,52.78,163.83,Yes
+TEL-2109,Male,0,No,No,29,Fiber optic,No,Month-to-month,Electronic check,74.65,2158.25,Yes
+TEL-2110,Male,0,No,No,5,No,No internet service,Month-to-month,Mailed check,19.62,87.93,Yes
+TEL-2111,Male,0,Yes,Yes,21,Fiber optic,No,Month-to-month,Mailed check,94.34,1976.09,Yes
+TEL-2112,Female,0,Yes,No,40,Fiber optic,No,Two year,Mailed check,101.57,4076.42,No
+TEL-2113,Male,0,No,Yes,51,DSL,No,Two year,Credit card,67.95,3461.81,No
+TEL-2114,Male,0,Yes,Yes,33,DSL,No,One year,Credit card,70.45,2346.86,No
+TEL-2115,Female,0,Yes,No,59,DSL,Yes,Two year,Bank transfer,62.38,3659.8,No
+TEL-2116,Male,0,No,No,50,Fiber optic,No,Two year,Electronic check,99.58,4963.54,No
+TEL-2117,Male,0,No,No,2,No,No internet service,Month-to-month,Bank transfer,26.0,65.24,No
+TEL-2118,Female,1,No,No,66,Fiber optic,No,Two year,Mailed check,91.9,6081.16,No
+TEL-2119,Male,0,Yes,No,24,Fiber optic,Yes,Month-to-month,Credit card,88.63,2118.49,Yes
+TEL-2120,Male,0,No,No,54,No,No internet service,Two year,Credit card,18.0,972.69,No
+TEL-2121,Female,1,Yes,No,55,No,No internet service,Two year,Bank transfer,26.0,1437.12,No
+TEL-2122,Male,0,Yes,Yes,9,No,No internet service,Month-to-month,Credit card,21.72,193.19,Yes
+TEL-2123,Male,1,No,No,28,No,No internet service,Month-to-month,Mailed check,18.0,505.5,No
+TEL-2124,Male,0,Yes,No,2,DSL,Yes,Month-to-month,Credit card,58.18,116.47,Yes
+TEL-2125,Male,1,Yes,No,4,DSL,No,Month-to-month,Bank transfer,62.45,234.99,Yes
+TEL-2126,Female,0,Yes,No,55,Fiber optic,No,Two year,Mailed check,95.86,5268.85,No
+TEL-2127,Female,0,No,No,56,Fiber optic,No,Two year,Bank transfer,80.1,4485.72,No
+TEL-2128,Female,0,No,No,7,Fiber optic,Yes,Month-to-month,Credit card,97.64,684.51,Yes
+TEL-2129,Female,0,No,No,1,Fiber optic,No,Month-to-month,Bank transfer,87.61,70.3,Yes
+TEL-2130,Male,0,No,Yes,21,DSL,Yes,Month-to-month,Bank transfer,63.29,1336.63,No
+TEL-2131,Female,0,Yes,No,28,DSL,Yes,Month-to-month,Electronic check,47.88,1341.93,No
+TEL-2132,Female,0,Yes,No,12,Fiber optic,Yes,Month-to-month,Credit card,89.4,1062.25,No
+TEL-2133,Male,0,Yes,No,19,Fiber optic,Yes,Month-to-month,Credit card,80.69,1551.1,Yes
+TEL-2134,Male,0,Yes,Yes,61,DSL,Yes,Two year,Bank transfer,58.16,3544.29,No
+TEL-2135,Male,0,No,No,26,Fiber optic,No,Month-to-month,Electronic check,70.0,1817.18,No
+TEL-2136,Female,1,No,No,24,No,No internet service,Month-to-month,Credit card,18.05,439.62,No
+TEL-2137,Male,0,Yes,No,33,DSL,No,One year,Mailed check,41.26,1380.42,Yes
+TEL-2138,Male,1,Yes,No,22,DSL,Yes,Month-to-month,Bank transfer,41.28,914.97,Yes
+TEL-2139,Male,0,Yes,No,53,DSL,Yes,Two year,Credit card,57.08,3033.5,No
+TEL-2140,Female,0,Yes,No,57,No,No internet service,Two year,Mailed check,21.96,1241.7,No
+TEL-2141,Female,0,No,No,6,Fiber optic,No,Month-to-month,Credit card,71.03,427.05,No
+TEL-2142,Female,0,Yes,No,6,DSL,Yes,Month-to-month,Mailed check,51.12,301.4,No
+TEL-2143,Female,0,Yes,Yes,3,DSL,No,Month-to-month,Bank transfer,51.51,161.57,Yes
+TEL-2144,Female,0,No,No,7,Fiber optic,No,Month-to-month,Credit card,84.41,598.84,Yes
+TEL-2145,Female,0,Yes,No,18,No,No internet service,Month-to-month,Credit card,23.97,447.79,Yes
+TEL-2146,Female,1,No,No,30,DSL,No,One year,Electronic check,61.32,1818.02,No
+TEL-2147,Male,0,Yes,Yes,17,DSL,Yes,Month-to-month,Bank transfer,63.02,1065.03,Yes
+TEL-2148,Male,0,No,No,9,No,No internet service,Month-to-month,Mailed check,19.66,189.94,Yes
+TEL-2149,Male,0,No,Yes,3,No,No internet service,Month-to-month,Credit card,22.54,53.6,No
+TEL-2150,Female,0,No,Yes,53,DSL,No,Two year,Credit card,65.39,3473.73,No
+TEL-2151,Female,0,Yes,No,4,No,No internet service,Month-to-month,Mailed check,18.0,83.34,No
+TEL-2152,Male,0,No,No,0,DSL,Yes,Month-to-month,Bank transfer,58.4, ,Yes
+TEL-2153,Male,0,Yes,No,4,DSL,Yes,Month-to-month,Electronic check,69.92,279.4,No
+TEL-2154,Female,0,Yes,No,46,DSL,Yes,Two year,Electronic check,58.61,2681.85,No
+TEL-2155,Female,0,Yes,Yes,7,DSL,No,Month-to-month,Credit card,59.49,415.21,Yes
+TEL-2156,Female,0,Yes,No,42,Fiber optic,No,One year,Mailed check,82.97,3499.33,No
+TEL-2157,Female,1,No,No,31,No,No internet service,One year,Credit card,20.64,655.23,No
+TEL-2158,Female,0,No,Yes,13,No,No internet service,Month-to-month,Mailed check,18.0,236.08,No
+TEL-2159,Female,0,No,No,49,Fiber optic,Yes,One year,Electronic check,116.11,5679.62,Yes
+TEL-2160,Female,0,No,No,2,No,No internet service,Month-to-month,Bank transfer,18.47,54.32,No
+TEL-2161,Female,1,No,No,39,Fiber optic,Yes,One year,Mailed check,86.5,3381.71,No
+TEL-2162,Male,0,Yes,No,25,Fiber optic,No,One year,Electronic check,90.7,2258.38,No
+TEL-2163,Female,0,Yes,No,0,DSL,Yes,Month-to-month,Credit card,44.52, ,Yes
+TEL-2164,Female,0,No,No,13,Fiber optic,No,Month-to-month,Mailed check,118.0,1537.43,Yes
+TEL-2165,Female,0,Yes,No,68,No,No internet service,Two year,Bank transfer,18.68,1273.21,No
+TEL-2166,Male,0,No,Yes,3,No,No internet service,Month-to-month,Credit card,18.0,47.63,Yes
+TEL-2167,Male,0,Yes,No,49,DSL,Yes,Month-to-month,Credit card,52.55,2578.43,Yes
+TEL-2168,Female,0,Yes,No,16,Fiber optic,No,Month-to-month,Electronic check,101.66,1637.62,No
+TEL-2169,Male,0,Yes,No,37,Fiber optic,Yes,One year,Mailed check,95.6,3534.24,No
+TEL-2170,Male,0,Yes,No,29,DSL,Yes,One year,Credit card,62.0,1810.08,No
+TEL-2171,Male,0,Yes,No,7,No,No internet service,Month-to-month,Bank transfer,21.18,130.71,Yes
+TEL-2172,Female,0,No,No,41,DSL,Yes,Month-to-month,Mailed check,63.09,2608.87,No
+TEL-2173,Female,0,Yes,Yes,7,Fiber optic,Yes,Month-to-month,Bank transfer,91.45,640.72,Yes
+TEL-2174,Female,1,No,No,27,DSL,No,One year,Credit card,67.67,1837.82,Yes
+TEL-2175,Female,0,Yes,No,6,DSL,Yes,Month-to-month,Bank transfer,52.71,318.45,Yes
+TEL-2176,Female,0,Yes,Yes,42,DSL,Yes,One year,Electronic check,65.43,2739.82,No
+TEL-2177,Female,0,Yes,No,1,Fiber optic,No,Month-to-month,Bank transfer,82.09,81.73,Yes
+TEL-2178,Female,0,No,No,58,DSL,No,Two year,Mailed check,68.66,3963.19,No
+TEL-2179,Male,0,Yes,No,2,DSL,Yes,Month-to-month,Bank transfer,43.11,93.1,No
+TEL-2180,Female,0,No,Yes,14,No,No internet service,Month-to-month,Bank transfer,23.17,326.32,No
+TEL-2181,Female,0,Yes,Yes,35,Fiber optic,Yes,Month-to-month,Electronic check,95.34,3334.98,Yes
+TEL-2182,Female,0,No,No,63,DSL,No,Two year,Bank transfer,64.48,4069.77,No
+TEL-2183,Female,0,Yes,Yes,61,No,No internet service,Two year,Bank transfer,23.15,1412.53,No
+TEL-2184,Female,0,No,No,8,Fiber optic,Yes,Month-to-month,Credit card,86.23,695.91,Yes
+TEL-2185,Female,0,No,No,22,No,No internet service,One year,Credit card,26.0,581.62,No
+TEL-2186,Female,0,No,Yes,63,DSL,Yes,Two year,Mailed check,54.32,3416.67,No
+TEL-2187,Female,0,Yes,Yes,41,Fiber optic,No,One year,Credit card,91.53,3744.38,Yes
+TEL-2188,Male,0,Yes,No,5,Fiber optic,No,Month-to-month,Credit card,104.41,504.82,Yes
+TEL-2189,Male,0,Yes,No,36,DSL,No,Month-to-month,Credit card,58.66,2112.99,No
+TEL-2190,Female,0,No,No,4,Fiber optic,No,Month-to-month,Credit card,83.85,339.92,Yes
+TEL-2191,Female,0,No,No,59,DSL,No,Two year,Electronic check,54.35,3193.41,No
+TEL-2192,Male,0,No,No,45,Fiber optic,No,Two year,Credit card,98.53,4448.05,No
+TEL-2193,Female,0,Yes,No,40,DSL,Yes,One year,Electronic check,57.44,2289.38,No
+TEL-2194,Female,1,Yes,No,6,Fiber optic,No,Month-to-month,Electronic check,90.2,520.16,Yes
+TEL-2195,Male,0,Yes,No,6,No,No internet service,Month-to-month,Credit card,21.43,143.53,Yes
+TEL-2196,Female,0,No,No,23,No,No internet service,One year,Bank transfer,23.86,529.05,No
+TEL-2197,Female,0,No,No,47,No,No internet service,Two year,Electronic check,18.0,855.64,No
+TEL-2198,Female,0,No,Yes,44,DSL,Yes,Two year,Bank transfer,41.31,1824.85,No
+TEL-2199,Male,0,Yes,No,51,Fiber optic,No,One year,Bank transfer,92.72,4731.92,No
+TEL-2200,Male,0,No,Yes,20,DSL,Yes,One year,Credit card,65.1,1296.77,No
+TEL-2201,Female,1,No,Yes,17,Fiber optic,Yes,Month-to-month,Mailed check,111.01,1892.2,Yes
+TEL-2202,Male,0,Yes,No,9,Fiber optic,No,Month-to-month,Credit card,101.69,925.69,Yes
+TEL-2203,Male,0,No,No,53,Fiber optic,No,Two year,Mailed check,97.45,5154.99,No
+TEL-2204,Male,0,No,No,43,DSL,Yes,One year,Mailed check,82.9,3574.46,No
+TEL-2205,Female,0,No,No,2,DSL,Yes,Month-to-month,Credit card,56.62,122.55,Yes
+TEL-2206,Male,0,No,No,14,DSL,No,Month-to-month,Credit card,47.12,662.61,No
+TEL-2207,Male,0,Yes,Yes,26,Fiber optic,Yes,One year,Mailed check,90.01,2334.88,No
+TEL-2208,Male,0,Yes,No,12,Fiber optic,No,Month-to-month,Credit card,85.67,1037.39,No
+TEL-2209,Female,0,No,No,48,No,No internet service,Month-to-month,Mailed check,20.57,992.44,No
+TEL-2210,Male,0,Yes,No,8,Fiber optic,Yes,Month-to-month,Bank transfer,93.13,734.88,Yes
+TEL-2211,Male,0,No,No,39,DSL,Yes,One year,Credit card,56.51,2200.22,No
+TEL-2212,Female,0,No,Yes,15,Fiber optic,No,One year,Bank transfer,80.66,1218.09,No
+TEL-2213,Male,0,No,No,15,DSL,Yes,Month-to-month,Electronic check,54.48,818.35,No
+TEL-2214,Male,0,No,No,37,DSL,Yes,One year,Bank transfer,65.21,2423.63,Yes
+TEL-2215,Male,0,Yes,No,3,Fiber optic,No,Month-to-month,Bank transfer,114.44,339.9,Yes
+TEL-2216,Female,0,Yes,No,4,Fiber optic,No,Month-to-month,Mailed check,84.29,327.16,Yes
+TEL-2217,Female,1,Yes,No,53,DSL,No,One year,Bank transfer,53.84,2875.46,No
+TEL-2218,Male,1,Yes,No,34,DSL,Yes,One year,Credit card,43.59,1465.25,No
+TEL-2219,Male,0,Yes,No,59,Fiber optic,No,Two year,Mailed check,100.23,5908.57,No
+TEL-2220,Male,1,Yes,No,31,No,No internet service,One year,Electronic check,22.72,707.12,No
+TEL-2221,Male,0,No,Yes,43,Fiber optic,Yes,One year,Credit card,91.7,3952.96,No
+TEL-2222,Male,0,No,Yes,27,Fiber optic,No,Month-to-month,Electronic check,78.16,2116.78,Yes
+TEL-2223,Male,0,Yes,No,34,No,No internet service,Month-to-month,Bank transfer,19.18,675.23,No
+TEL-2224,Female,0,Yes,Yes,9,Fiber optic,Yes,Month-to-month,Credit card,91.28,820.34,Yes
+TEL-2225,Male,0,No,Yes,8,DSL,Yes,Month-to-month,Credit card,60.31,473.75,No
+TEL-2226,Male,0,Yes,No,47,Fiber optic,No,Two year,Electronic check,100.84,4737.28,No
+TEL-2227,Male,0,Yes,No,39,Fiber optic,No,Month-to-month,Credit card,91.93,3582.07,No
+TEL-2228,Female,0,Yes,No,65,No,No internet service,Two year,Credit card,18.0,1169.32,No
+TEL-2229,Male,0,No,Yes,36,Fiber optic,Yes,One year,Credit card,73.3,2628.98,No
+TEL-2230,Female,0,Yes,Yes,37,No,No internet service,One year,Bank transfer,20.76,775.96,No
+TEL-2231,Male,0,No,Yes,48,Fiber optic,No,Month-to-month,Electronic check,87.05,4182.11,Yes
+TEL-2232,Male,0,Yes,No,49,Fiber optic,No,One year,Credit card,93.42,4564.94,No
+TEL-2233,Male,1,No,No,5,Fiber optic,Yes,Month-to-month,Mailed check,76.88,394.08,Yes
+TEL-2234,Male,1,Yes,No,4,DSL,No,Month-to-month,Mailed check,71.63,278.41,No
+TEL-2235,Male,0,Yes,Yes,44,Fiber optic,Yes,One year,Mailed check,85.19,3736.53,No
+TEL-2236,Male,1,No,No,1,No,No internet service,Month-to-month,Mailed check,23.59,24.46,No
+TEL-2237,Female,0,No,No,48,DSL,No,Month-to-month,Bank transfer,62.01,2958.9,No
+TEL-2238,Male,1,No,No,22,No,No internet service,One year,Credit card,20.64,459.98,No
+TEL-2239,Male,0,No,No,1,Fiber optic,No,Month-to-month,Electronic check,86.45,58.06,Yes
+TEL-2240,Male,0,No,No,72,No,No internet service,Two year,Credit card,20.38,1457.07,No
+TEL-2241,Female,0,No,Yes,40,DSL,No,Two year,Bank transfer,48.13,1940.95,No
+TEL-2242,Male,0,No,Yes,36,DSL,Yes,Two year,Mailed check,52.12,1869.45,No
+TEL-2243,Female,0,Yes,No,1,No,No internet service,Month-to-month,Bank transfer,18.0,12.88,Yes
+TEL-2244,Male,0,Yes,Yes,0,DSL,Yes,Month-to-month,Credit card,63.51, ,Yes
+TEL-2245,Male,0,Yes,Yes,48,DSL,Yes,Two year,Electronic check,55.81,2691.62,No
+TEL-2246,Female,0,No,Yes,20,Fiber optic,No,Month-to-month,Bank transfer,91.35,1819.07,No
+TEL-2247,Female,0,Yes,Yes,51,Fiber optic,No,Two year,Electronic check,92.95,4748.08,No
+TEL-2248,Male,0,Yes,No,55,No,No internet service,Two year,Bank transfer,24.8,1375.74,No
+TEL-2249,Female,0,No,No,59,DSL,No,Two year,Electronic check,63.83,3770.76,No
+TEL-2250,Female,0,No,No,3,DSL,Yes,Month-to-month,Electronic check,63.06,174.73,Yes
+TEL-2251,Male,0,No,No,72,DSL,Yes,Month-to-month,Mailed check,53.02,3811.4,No
+TEL-2252,Male,0,Yes,No,65,Fiber optic,No,Two year,Electronic check,87.22,5696.44,No
+TEL-2253,Male,0,No,No,36,Fiber optic,No,Month-to-month,Mailed check,99.88,3590.77,Yes
+TEL-2254,Female,1,Yes,No,13,DSL,Yes,Month-to-month,Credit card,48.59,661.53,No
+TEL-2255,Male,0,Yes,No,24,Fiber optic,No,One year,Credit card,91.39,2210.45,No
+TEL-2256,Male,0,Yes,Yes,53,Fiber optic,Yes,Two year,Mailed check,79.63,4225.58,No
+TEL-2257,Female,1,Yes,No,33,DSL,No,One year,Mailed check,58.13,1921.26,No
+TEL-2258,Female,0,Yes,No,28,Fiber optic,No,One year,Bank transfer,89.92,2513.11,No
+TEL-2259,Male,0,No,No,3,DSL,No,Month-to-month,Bank transfer,50.06,149.29,Yes
+TEL-2260,Female,0,Yes,No,28,Fiber optic,No,One year,Bank transfer,105.87,2957.47,Yes
+TEL-2261,Female,0,No,No,45,DSL,Yes,Two year,Credit card,70.43,3168.71,No
+TEL-2262,Female,0,No,No,29,Fiber optic,Yes,Month-to-month,Bank transfer,70.55,2032.33,No
+TEL-2263,Male,0,Yes,Yes,35,DSL,No,Month-to-month,Electronic check,51.7,1795.34,No
+TEL-2264,Male,0,No,No,41,Fiber optic,No,Two year,Electronic check,94.17,3873.98,No
+TEL-2265,Male,1,Yes,No,27,Fiber optic,Yes,One year,Bank transfer,89.11,2389.85,No
+TEL-2266,Female,0,No,No,52,Fiber optic,Yes,One year,Electronic check,96.07,5004.5,Yes
+TEL-2267,Male,0,Yes,Yes,42,DSL,No,One year,Credit card,60.11,2505.68,No
+TEL-2268,Male,0,Yes,No,12,DSL,Yes,Month-to-month,Electronic check,56.76,687.42,No
+TEL-2269,Female,0,Yes,No,10,Fiber optic,Yes,Month-to-month,Credit card,99.11,989.02,No
+TEL-2270,Female,0,No,Yes,55,DSL,Yes,Two year,Mailed check,51.81,2862.76,No
+TEL-2271,Male,0,No,No,63,No,No internet service,Two year,Mailed check,18.0,1130.68,No
+TEL-2272,Female,0,Yes,Yes,61,DSL,Yes,Two year,Mailed check,72.28,4388.98,No
+TEL-2273,Male,0,No,No,55,Fiber optic,No,Two year,Mailed check,118.0,6488.12,No
+TEL-2274,Male,0,No,No,23,DSL,No,Month-to-month,Electronic check,49.41,1138.03,Yes
+TEL-2275,Male,0,No,No,16,Fiber optic,No,Month-to-month,Bank transfer,80.41,1285.24,Yes
+TEL-2276,Female,0,No,Yes,31,Fiber optic,No,One year,Electronic check,76.82,2387.17,No
+TEL-2277,Female,0,No,No,49,No,No internet service,One year,Credit card,20.19,983.67,No
+TEL-2278,Male,0,No,Yes,24,Fiber optic,No,One year,Electronic check,91.22,2176.65,Yes
+TEL-2279,Male,0,No,Yes,52,DSL,No,One year,Electronic check,65.02,3371.04,No
+TEL-2280,Male,0,Yes,Yes,53,DSL,Yes,Two year,Credit card,54.79,2898.71,No
+TEL-2281,Male,1,Yes,Yes,7,DSL,Yes,Month-to-month,Mailed check,64.53,446.47,Yes
+TEL-2282,Female,1,Yes,No,2,DSL,Yes,Month-to-month,Mailed check,62.9,149.86,Yes
+TEL-2283,Male,0,No,Yes,19,Fiber optic,No,Month-to-month,Mailed check,73.38,1406.77,Yes
+TEL-2284,Male,1,No,No,49,Fiber optic,Yes,One year,Bank transfer,82.9,4068.97,Yes
+TEL-2285,Female,0,Yes,No,5,DSL,Yes,Month-to-month,Credit card,53.16,270.26,Yes
+TEL-2286,Male,1,No,No,27,Fiber optic,No,Month-to-month,Credit card,99.21,2681.67,Yes
+TEL-2287,Male,0,Yes,No,11,Fiber optic,Yes,Month-to-month,Electronic check,113.7,1253.75,No
+TEL-2288,Male,1,Yes,No,5,Fiber optic,No,Month-to-month,Bank transfer,95.44,478.83,Yes
+TEL-2289,Male,1,No,No,17,Fiber optic,No,One year,Mailed check,78.24,1330.48,Yes
+TEL-2290,Male,0,Yes,Yes,21,Fiber optic,No,Month-to-month,Bank transfer,98.61,2049.89,Yes
+TEL-2291,Female,1,Yes,No,18,Fiber optic,No,Month-to-month,Credit card,80.16,1439.19,Yes
+TEL-2292,Female,0,No,Yes,48,DSL,No,Two year,Credit card,65.28,3131.04,No
+TEL-2293,Female,0,No,Yes,6,DSL,No,Month-to-month,Electronic check,54.92,322.03,No
+TEL-2294,Female,0,Yes,Yes,11,No,No internet service,Month-to-month,Electronic check,18.0,192.44,No
+TEL-2295,Male,0,No,No,32,Fiber optic,No,Month-to-month,Credit card,89.31,2860.93,No
+TEL-2296,Female,0,No,Yes,31,Fiber optic,Yes,One year,Mailed check,88.8,2760.48,No
+TEL-2297,Female,0,Yes,No,3,Fiber optic,Yes,Month-to-month,Mailed check,102.86,311.57,Yes
+TEL-2298,Female,1,Yes,Yes,57,DSL,Yes,One year,Bank transfer,46.51,2658.49,No
+TEL-2299,Female,0,No,No,1,DSL,No,Month-to-month,Credit card,45.92,53.52,Yes
+TEL-2300,Female,0,Yes,Yes,2,Fiber optic,No,Month-to-month,Credit card,89.18,175.36,No
+TEL-2301,Female,1,No,Yes,0,No,No internet service,Month-to-month,Mailed check,23.75, ,Yes
+TEL-2302,Female,1,No,No,72,Fiber optic,No,Month-to-month,Mailed check,93.71,6752.37,Yes
+TEL-2303,Female,1,No,Yes,40,DSL,Yes,One year,Credit card,44.02,1743.34,No
+TEL-2304,Male,0,Yes,No,38,DSL,No,One year,Electronic check,67.55,2563.06,No
+TEL-2305,Female,1,No,No,47,No,No internet service,Two year,Credit card,19.01,888.45,No
+TEL-2306,Male,0,Yes,Yes,4,DSL,Yes,Month-to-month,Credit card,55.22,236.19,No
+TEL-2307,Female,0,Yes,No,14,No,No internet service,Month-to-month,Mailed check,22.81,322.71,Yes
+TEL-2308,Female,0,Yes,Yes,14,Fiber optic,No,One year,Mailed check,85.61,1185.2,No
+TEL-2309,Female,0,Yes,No,63,No,No internet service,Month-to-month,Electronic check,20.02,1267.21,No
+TEL-2310,Male,0,No,Yes,9,Fiber optic,Yes,Month-to-month,Electronic check,86.39,786.61,Yes
+TEL-2311,Male,0,Yes,No,29,No,No internet service,Month-to-month,Bank transfer,21.0,608.1,No
+TEL-2312,Female,0,Yes,Yes,5,DSL,Yes,Month-to-month,Credit card,67.3,343.4,Yes
+TEL-2313,Male,0,No,No,36,No,No internet service,Two year,Mailed check,19.68,683.52,No
+TEL-2314,Female,0,Yes,No,48,DSL,Yes,Two year,Electronic check,55.66,2644.69,No
+TEL-2315,Male,0,No,No,32,DSL,Yes,One year,Bank transfer,55.38,1760.37,No
+TEL-2316,Male,0,Yes,No,22,DSL,Yes,Month-to-month,Bank transfer,54.09,1191.47,Yes
+TEL-2317,Male,0,No,No,20,DSL,Yes,Month-to-month,Mailed check,70.71,1429.52,Yes
+TEL-2318,Female,0,No,No,22,Fiber optic,Yes,Month-to-month,Mailed check,79.99,1748.52,No
+TEL-2319,Male,0,Yes,Yes,27,Fiber optic,No,Month-to-month,Bank transfer,90.79,2442.79,Yes
+TEL-2320,Male,1,Yes,Yes,10,Fiber optic,Yes,Month-to-month,Electronic check,97.89,979.79,Yes
+TEL-2321,Female,0,Yes,Yes,28,Fiber optic,No,One year,Bank transfer,81.96,2289.96,Yes
+TEL-2322,Male,0,No,No,55,No,No internet service,One year,Credit card,23.03,1261.16,No
+TEL-2323,Female,0,Yes,No,2,Fiber optic,No,Month-to-month,Credit card,91.74,179.27,Yes
+TEL-2324,Female,0,Yes,No,41,No,No internet service,Two year,Mailed check,18.0,751.15,No
+TEL-2325,Male,1,Yes,Yes,48,Fiber optic,Yes,One year,Electronic check,76.0,3659.16,No
+TEL-2326,Female,0,Yes,No,27,Fiber optic,No,One year,Electronic check,93.57,2526.62,No
+TEL-2327,Male,0,No,Yes,35,DSL,Yes,One year,Credit card,51.5,1819.04,No
+TEL-2328,Male,0,No,No,2,DSL,Yes,Month-to-month,Bank transfer,62.27,129.63,Yes
+TEL-2329,Female,0,Yes,No,13,DSL,Yes,Month-to-month,Mailed check,58.73,775.03,No
+TEL-2330,Male,0,Yes,No,7,DSL,No,Month-to-month,Bank transfer,53.79,367.92,Yes
+TEL-2331,Male,0,No,No,28,DSL,Yes,One year,Bank transfer,52.32,1458.42,No
+TEL-2332,Female,0,No,No,40,Fiber optic,No,Month-to-month,Bank transfer,98.27,3924.16,Yes
+TEL-2333,Female,0,Yes,Yes,6,No,No internet service,Month-to-month,Electronic check,20.6,122.73,No
+TEL-2334,Male,0,Yes,No,32,No,No internet service,Month-to-month,Credit card,18.0,576.6,No
+TEL-2335,Female,1,Yes,Yes,6,DSL,No,Month-to-month,Electronic check,65.71,397.5,Yes
+TEL-2336,Female,1,No,No,54,Fiber optic,Yes,Two year,Credit card,83.4,4523.33,No
+TEL-2337,Female,0,Yes,No,13,DSL,Yes,One year,Mailed check,58.86,772.39,Yes
+TEL-2338,Female,0,No,Yes,3,Fiber optic,No,Month-to-month,Mailed check,87.88,258.49,Yes
+TEL-2339,Male,0,No,Yes,9,Fiber optic,Yes,Month-to-month,Bank transfer,95.09,855.78,Yes
+TEL-2340,Male,0,No,No,4,Fiber optic,Yes,Month-to-month,Credit card,90.87,378.53,Yes
+TEL-2341,Female,0,Yes,No,33,DSL,No,Month-to-month,Credit card,47.2,1565.42,Yes
+TEL-2342,Male,1,Yes,No,3,No,No internet service,Month-to-month,Credit card,25.8,92.32,No
+TEL-2343,Female,1,Yes,Yes,13,DSL,No,Month-to-month,Bank transfer,57.19,738.64,No
+TEL-2344,Female,0,Yes,Yes,14,DSL,Yes,Month-to-month,Bank transfer,54.14,750.84,Yes
+TEL-2345,Male,0,No,No,22,Fiber optic,No,One year,Mailed check,89.36,1958.95,No
+TEL-2346,Male,0,No,No,48,Fiber optic,No,One year,Electronic check,83.64,4010.7,No
+TEL-2347,Male,0,No,Yes,23,Fiber optic,Yes,Month-to-month,Credit card,95.59,2187.94,Yes
+TEL-2348,Male,0,No,No,20,No,No internet service,Month-to-month,Credit card,22.98,462.55,Yes
+TEL-2349,Female,0,Yes,Yes,39,Fiber optic,Yes,One year,Electronic check,88.42,3451.5,No
+TEL-2350,Female,0,Yes,No,8,No,No internet service,Month-to-month,Credit card,19.95,172.99,No
+TEL-2351,Male,0,Yes,No,54,DSL,No,Two year,Bank transfer,62.96,3382.24,No
+TEL-2352,Female,0,No,No,9,Fiber optic,No,One year,Bank transfer,91.93,817.93,No
+TEL-2353,Male,1,No,No,14,DSL,Yes,Month-to-month,Credit card,62.78,886.98,Yes
+TEL-2354,Male,0,No,No,25,DSL,Yes,Month-to-month,Bank transfer,69.26,1733.33,Yes
+TEL-2355,Male,0,Yes,Yes,20,No,No internet service,One year,Bank transfer,18.62,372.85,No
+TEL-2356,Female,0,Yes,Yes,11,No,No internet service,Month-to-month,Credit card,20.93,242.87,No
+TEL-2357,Female,0,No,No,43,Fiber optic,No,One year,Mailed check,97.1,4165.2,Yes
+TEL-2358,Male,0,Yes,No,56,Fiber optic,No,Two year,Electronic check,76.99,4304.15,No
+TEL-2359,Male,0,No,No,29,DSL,Yes,One year,Bank transfer,64.73,1868.7,No
+TEL-2360,Male,1,No,No,2,No,No internet service,Month-to-month,Mailed check,18.14,16.15,Yes
+TEL-2361,Male,0,No,No,25,Fiber optic,No,One year,Bank transfer,92.92,2324.33,No
+TEL-2362,Female,1,Yes,Yes,5,DSL,No,Month-to-month,Bank transfer,63.83,313.92,Yes
+TEL-2363,Female,0,Yes,No,2,DSL,Yes,Month-to-month,Electronic check,62.04,116.75,Yes
+TEL-2364,Male,0,Yes,No,61,DSL,Yes,Two year,Bank transfer,52.03,3164.7,No
+TEL-2365,Male,0,Yes,No,4,Fiber optic,Yes,Month-to-month,Electronic check,84.55,338.02,Yes
+TEL-2366,Female,0,Yes,No,51,DSL,Yes,Two year,Electronic check,62.33,3170.84,No
+TEL-2367,Male,0,No,Yes,58,No,No internet service,Two year,Electronic check,25.35,1472.52,No
+TEL-2368,Female,0,No,No,44,Fiber optic,No,Month-to-month,Mailed check,96.34,4243.55,Yes
+TEL-2369,Female,0,Yes,No,58,Fiber optic,No,Month-to-month,Credit card,105.16,6096.33,Yes
+TEL-2370,Male,1,Yes,No,15,No,No internet service,Month-to-month,Mailed check,22.44,332.98,No
+TEL-2371,Female,1,Yes,Yes,8,Fiber optic,No,Month-to-month,Credit card,74.41,597.13,Yes
+TEL-2372,Female,1,Yes,Yes,8,No,No internet service,Month-to-month,Credit card,26.0,207.71,No
+TEL-2373,Female,0,No,Yes,40,DSL,Yes,One year,Electronic check,71.12,2858.1,No
+TEL-2374,Female,0,Yes,Yes,6,Fiber optic,No,Month-to-month,Bank transfer,79.09,477.72,Yes
+TEL-2375,Male,0,Yes,No,3,No,No internet service,Month-to-month,Electronic check,23.66,81.94,No
+TEL-2376,Female,0,Yes,No,54,Fiber optic,No,Two year,Bank transfer,91.19,4930.37,No
+TEL-2377,Female,0,No,No,22,DSL,Yes,Month-to-month,Credit card,64.2,1399.22,No
+TEL-2378,Female,0,No,No,72,Fiber optic,No,Two year,Electronic check,93.92,6756.66,No
+TEL-2379,Male,0,Yes,No,12,DSL,Yes,Month-to-month,Bank transfer,57.98,695.28,Yes
+TEL-2380,Male,0,No,Yes,6,Fiber optic,No,Month-to-month,Mailed check,85.9,524.08,Yes
+TEL-2381,Male,1,No,No,35,Fiber optic,Yes,One year,Bank transfer,83.07,2926.73,No
+TEL-2382,Female,0,No,No,45,No,No internet service,One year,Electronic check,26.0,1165.16,No
+TEL-2383,Male,0,Yes,Yes,66,Fiber optic,No,Two year,Mailed check,83.9,5537.95,No
+TEL-2384,Male,0,No,Yes,49,DSL,Yes,One year,Bank transfer,70.32,3453.68,No
+TEL-2385,Male,1,No,No,47,Fiber optic,No,Two year,Bank transfer,95.52,4488.86,No
+TEL-2386,Female,0,No,No,25,DSL,Yes,Month-to-month,Bank transfer,46.45,1177.69,Yes
+TEL-2387,Male,0,No,No,3,Fiber optic,No,Month-to-month,Bank transfer,98.71,282.65,Yes
+TEL-2388,Male,0,No,Yes,40,No,No internet service,One year,Bank transfer,21.16,853.18,No
+TEL-2389,Male,0,Yes,No,55,DSL,No,Two year,Mailed check,46.92,2587.28,No
+TEL-2390,Female,0,No,No,56,Fiber optic,No,Two year,Credit card,87.15,4891.92,No
+TEL-2391,Female,0,No,Yes,1,Fiber optic,No,Month-to-month,Mailed check,102.41,103.03,Yes
+TEL-2392,Male,0,No,No,1,Fiber optic,Yes,Month-to-month,Mailed check,92.48,101.4,Yes
+TEL-2393,Male,0,Yes,Yes,33,DSL,Yes,One year,Mailed check,59.39,1957.38,No
+TEL-2394,Male,0,No,No,2,Fiber optic,No,Month-to-month,Credit card,109.52,211.03,Yes
+TEL-2395,Female,1,No,Yes,54,No,No internet service,Two year,Electronic check,18.07,966.31,No
+TEL-2396,Female,0,Yes,Yes,58,Fiber optic,Yes,Two year,Credit card,95.19,5506.61,No
+TEL-2397,Male,0,No,Yes,17,Fiber optic,No,Month-to-month,Mailed check,86.56,1467.11,Yes
+TEL-2398,Female,0,No,Yes,60,DSL,No,One year,Bank transfer,49.94,2999.51,No
+TEL-2399,Male,0,No,No,44,DSL,Yes,One year,Bank transfer,53.52,2352.8,No
+TEL-2400,Female,0,Yes,Yes,5,Fiber optic,No,Month-to-month,Mailed check,108.29,543.43,Yes
+TEL-2401,Male,0,Yes,No,60,Fiber optic,Yes,Two year,Bank transfer,102.76,6177.95,No
+TEL-2402,Female,0,No,Yes,8,Fiber optic,Yes,Month-to-month,Mailed check,102.13,811.87,Yes
+TEL-2403,Male,0,Yes,No,65,DSL,Yes,Two year,Bank transfer,57.65,3770.65,No
+TEL-2404,Female,0,No,No,1,DSL,No,Month-to-month,Credit card,59.99,67.54,Yes
+TEL-2405,Male,0,No,Yes,54,DSL,Yes,Two year,Electronic check,45.3,2444.23,No
+TEL-2406,Male,1,No,No,20,No,No internet service,Month-to-month,Electronic check,20.53,408.4,Yes
+TEL-2407,Male,0,Yes,Yes,35,No,No internet service,Month-to-month,Credit card,18.0,619.92,No
+TEL-2408,Male,0,No,No,68,DSL,Yes,Two year,Credit card,67.44,4585.66,No
+TEL-2409,Female,0,Yes,No,2,No,No internet service,Month-to-month,Mailed check,26.0,30.38,No
+TEL-2410,Male,0,Yes,No,10,Fiber optic,No,Month-to-month,Mailed check,95.28,965.36,No
+TEL-2411,Female,0,Yes,No,50,Fiber optic,No,Two year,Mailed check,81.51,4047.33,No
+TEL-2412,Female,0,Yes,No,51,Fiber optic,No,Two year,Bank transfer,85.58,4365.0,No
+TEL-2413,Male,1,No,Yes,17,Fiber optic,Yes,One year,Mailed check,78.18,1317.62,No
+TEL-2414,Male,0,No,Yes,32,DSL,No,One year,Credit card,60.65,1933.79,No
+TEL-2415,Male,0,Yes,No,38,No,No internet service,Month-to-month,Electronic check,18.0,678.28,No
+TEL-2416,Male,0,No,No,40,Fiber optic,Yes,Month-to-month,Bank transfer,85.79,3450.86,No
+TEL-2417,Female,1,Yes,No,50,Fiber optic,No,Month-to-month,Mailed check,87.55,4366.47,Yes
+TEL-2418,Female,0,No,No,33,DSL,Yes,One year,Bank transfer,62.9,2084.84,No
+TEL-2419,Female,0,No,No,35,No,No internet service,One year,Bank transfer,18.69,665.75,No
+TEL-2420,Female,0,No,No,63,Fiber optic,No,One year,Mailed check,85.7,5375.72,No
+TEL-2421,Male,0,Yes,No,50,DSL,No,One year,Bank transfer,55.89,2788.35,No
+TEL-2422,Female,0,No,No,10,Fiber optic,Yes,Month-to-month,Electronic check,100.5,1019.84,Yes
+TEL-2423,Male,0,Yes,No,26,Fiber optic,No,Month-to-month,Credit card,95.68,2474.53,Yes
+TEL-2424,Male,0,No,Yes,32,No,No internet service,Month-to-month,Credit card,22.17,721.42,Yes
+TEL-2425,Female,1,Yes,Yes,0,No,No internet service,Month-to-month,Electronic check,18.0, ,No
+TEL-2426,Female,0,No,No,8,Fiber optic,No,Month-to-month,Bank transfer,83.45,667.42,Yes
+TEL-2427,Female,1,No,Yes,48,No,No internet service,Two year,Mailed check,19.16,919.07,No
+TEL-2428,Female,0,No,No,6,DSL,Yes,Month-to-month,Bank transfer,48.28,290.37,No
+TEL-2429,Female,0,Yes,No,14,No,No internet service,Month-to-month,Electronic check,20.33,288.05,No
+TEL-2430,Female,0,No,No,5,DSL,Yes,Month-to-month,Bank transfer,54.94,265.14,No
+TEL-2431,Male,0,Yes,No,50,DSL,Yes,One year,Credit card,73.6,3677.4,No
+TEL-2432,Male,0,No,No,20,DSL,Yes,One year,Bank transfer,62.18,1247.31,No
+TEL-2433,Male,0,Yes,No,4,DSL,Yes,Month-to-month,Electronic check,54.93,221.49,Yes
+TEL-2434,Female,0,Yes,No,2,Fiber optic,No,Month-to-month,Credit card,93.62,190.73,Yes
+TEL-2435,Male,0,No,No,7,Fiber optic,No,One year,Bank transfer,89.3,617.91,Yes
+TEL-2436,Male,0,Yes,No,7,Fiber optic,Yes,Month-to-month,Bank transfer,97.49,688.75,No
+TEL-2437,Male,0,Yes,No,51,DSL,No,Two year,Credit card,53.85,2747.61,No
+TEL-2438,Male,1,Yes,No,45,Fiber optic,Yes,One year,Mailed check,91.81,4115.64,No
+TEL-2439,Male,0,Yes,No,0,DSL,No,Month-to-month,Credit card,62.13, ,Yes
+TEL-2440,Male,0,No,No,14,No,No internet service,Month-to-month,Mailed check,22.38,308.01,No
+TEL-2441,Female,0,No,No,54,Fiber optic,No,Two year,Electronic check,75.14,4048.6,No
+TEL-2442,Female,0,Yes,No,3,DSL,Yes,Month-to-month,Electronic check,80.67,232.93,No
+TEL-2443,Female,0,Yes,No,2,Fiber optic,No,Month-to-month,Credit card,76.69,148.62,No
+TEL-2444,Male,0,Yes,No,58,No,No internet service,Two year,Credit card,18.0,1050.13,No
+TEL-2445,Female,0,Yes,No,57,Fiber optic,No,Two year,Electronic check,96.3,5482.83,No
+TEL-2446,Female,0,No,No,72,DSL,Yes,Two year,Mailed check,57.14,4116.33,No
+TEL-2447,Male,0,No,No,58,No,No internet service,One year,Electronic check,18.0,1044.61,No
+TEL-2448,Female,0,Yes,No,39,No,No internet service,Month-to-month,Credit card,18.0,694.21,No
+TEL-2449,Male,1,Yes,No,0,DSL,Yes,Month-to-month,Electronic check,82.79, ,No
+TEL-2450,Female,0,Yes,No,31,DSL,No,One year,Credit card,60.36,1867.71,No
+TEL-2451,Male,0,No,Yes,32,DSL,Yes,One year,Credit card,67.42,2166.09,No
+TEL-2452,Male,0,No,No,9,No,No internet service,Month-to-month,Electronic check,20.91,189.69,No
+TEL-2453,Female,0,Yes,No,66,DSL,Yes,Two year,Mailed check,69.54,4595.13,No
+TEL-2454,Male,1,Yes,No,1,Fiber optic,No,Month-to-month,Bank transfer,92.06,104.78,Yes
+TEL-2455,Female,0,No,No,1,No,No internet service,Month-to-month,Electronic check,18.04,22.39,No
+TEL-2456,Male,0,No,No,2,DSL,No,Month-to-month,Bank transfer,58.27,97.33,Yes
+TEL-2457,Female,1,Yes,No,1,DSL,No,Month-to-month,Electronic check,60.15,62.86,Yes
+TEL-2458,Female,0,Yes,Yes,7,Fiber optic,No,Month-to-month,Bank transfer,90.36,626.34,Yes
+TEL-2459,Male,0,Yes,No,4,DSL,Yes,Month-to-month,Mailed check,58.28,251.22,Yes
+TEL-2460,Female,0,No,No,31,Fiber optic,Yes,Month-to-month,Mailed check,79.92,2481.51,No
+TEL-2461,Female,0,Yes,Yes,44,DSL,Yes,One year,Electronic check,42.76,1875.47,No
+TEL-2462,Female,0,Yes,Yes,52,Fiber optic,No,One year,Credit card,95.26,4959.19,No
+TEL-2463,Male,1,No,No,20,DSL,Yes,One year,Bank transfer,63.77,1276.31,No
+TEL-2464,Male,1,Yes,No,49,No,No internet service,Two year,Credit card,18.0,864.82,No
+TEL-2465,Female,0,No,Yes,17,Fiber optic,Yes,Month-to-month,Credit card,85.56,1463.15,No
+TEL-2466,Female,0,Yes,No,6,No,No internet service,Month-to-month,Credit card,18.0,103.94,Yes
+TEL-2467,Male,0,Yes,No,30,Fiber optic,No,Two year,Mailed check,88.34,2664.41,No
+TEL-2468,Male,1,No,No,4,No,No internet service,Month-to-month,Electronic check,18.61,73.2,Yes
+TEL-2469,Female,0,Yes,No,49,DSL,Yes,Two year,Electronic check,53.2,2621.19,No
+TEL-2470,Male,0,No,No,3,DSL,Yes,Month-to-month,Mailed check,52.0,160.25,Yes
+TEL-2471,Male,0,No,No,45,DSL,No,Two year,Mailed check,47.12,2130.14,No
+TEL-2472,Female,0,Yes,No,4,No,No internet service,Month-to-month,Electronic check,24.18,91.8,No
+TEL-2473,Male,0,No,No,55,Fiber optic,No,Two year,Credit card,80.84,4449.73,No
+TEL-2474,Male,0,Yes,Yes,12,Fiber optic,Yes,Month-to-month,Bank transfer,75.97,894.38,Yes
+TEL-2475,Male,0,No,No,71,DSL,No,Two year,Bank transfer,39.87,2829.5,No
+TEL-2476,Female,0,Yes,Yes,6,No,No internet service,Month-to-month,Bank transfer,19.45,101.85,Yes
+TEL-2477,Male,0,No,Yes,40,DSL,No,One year,Credit card,66.05,2630.57,No
+TEL-2478,Female,0,Yes,Yes,55,DSL,Yes,Two year,Electronic check,66.73,3661.24,No
+TEL-2479,Male,1,Yes,Yes,15,Fiber optic,Yes,Month-to-month,Mailed check,70.61,1065.75,Yes
+TEL-2480,Male,0,No,No,26,No,No internet service,One year,Electronic check,18.0,466.53,No
+TEL-2481,Female,0,No,Yes,33,Fiber optic,No,One year,Credit card,96.81,3195.04,No
+TEL-2482,Female,0,Yes,No,1,DSL,Yes,Month-to-month,Mailed check,57.31,55.56,Yes
+TEL-2483,Female,0,Yes,No,48,Fiber optic,Yes,One year,Credit card,93.7,4508.41,Yes
+TEL-2484,Female,0,No,No,30,Fiber optic,No,One year,Bank transfer,96.6,2898.04,No
+TEL-2485,Male,1,No,Yes,56,Fiber optic,No,Two year,Bank transfer,80.34,4501.53,No
+TEL-2486,Female,0,Yes,No,5,Fiber optic,No,Month-to-month,Credit card,98.56,487.1,No
+TEL-2487,Female,0,Yes,No,0,DSL,Yes,Month-to-month,Mailed check,59.33, ,Yes
+TEL-2488,Female,0,Yes,No,49,Fiber optic,Yes,Two year,Mailed check,100.38,4930.11,No
+TEL-2489,Male,1,No,No,53,Fiber optic,No,Two year,Electronic check,85.87,4563.35,No
+TEL-2490,Male,0,Yes,No,18,Fiber optic,No,Month-to-month,Bank transfer,104.38,1878.47,Yes
+TEL-2491,Female,0,Yes,No,16,Fiber optic,Yes,One year,Electronic check,77.63,1236.24,Yes
+TEL-2492,Female,0,No,No,3,Fiber optic,No,Month-to-month,Electronic check,99.6,282.64,Yes
+TEL-2493,Female,0,Yes,No,16,Fiber optic,No,Month-to-month,Credit card,85.19,1354.35,Yes
+TEL-2494,Female,0,No,Yes,2,DSL,Yes,Month-to-month,Credit card,67.33,112.99,Yes
+TEL-2495,Male,1,Yes,No,63,DSL,No,Month-to-month,Electronic check,52.27,3283.9,No
+TEL-2496,Female,0,Yes,Yes,44,DSL,No,One year,Bank transfer,57.01,2512.01,No
+TEL-2497,Male,0,Yes,No,13,DSL,Yes,Month-to-month,Credit card,62.82,816.16,Yes
+TEL-2498,Female,0,No,No,72,Fiber optic,No,Two year,Electronic check,100.9,7288.03,No
+TEL-2499,Female,1,Yes,No,47,No,No internet service,Two year,Electronic check,21.48,1005.85,No
+TEL-2500,Male,0,No,No,46,DSL,No,One year,Electronic check,58.01,2663.97,Yes
+TEL-2501,Female,0,No,No,24,DSL,Yes,Month-to-month,Electronic check,57.13,1381.75,Yes
+TEL-2502,Female,0,No,No,19,Fiber optic,Yes,Month-to-month,Electronic check,87.53,1643.8,Yes
+TEL-2503,Female,0,Yes,No,71,Fiber optic,No,Two year,Electronic check,98.04,6946.02,No
+TEL-2504,Female,0,Yes,No,23,Fiber optic,Yes,One year,Credit card,108.54,2503.06,Yes
+TEL-2505,Male,0,Yes,Yes,10,Fiber optic,No,Month-to-month,Bank transfer,82.78,825.85,Yes
+TEL-2506,Female,1,Yes,No,72,DSL,No,Two year,Electronic check,61.99,4461.56,No
+TEL-2507,Female,0,Yes,No,62,DSL,Yes,Two year,Mailed check,65.51,4052.25,No
+TEL-2508,Male,0,No,Yes,42,DSL,No,Two year,Credit card,55.72,2342.64,No
+TEL-2509,Female,0,Yes,No,42,DSL,Yes,One year,Credit card,46.01,1924.34,No
+TEL-2510,Male,0,Yes,Yes,48,No,No internet service,One year,Electronic check,18.0,864.73,No
+TEL-2511,Female,0,Yes,No,5,DSL,No,Month-to-month,Credit card,53.37,255.27,No
+TEL-2512,Female,0,No,No,65,No,No internet service,Two year,Electronic check,19.93,1293.63,No
+TEL-2513,Female,0,Yes,No,59,Fiber optic,No,Two year,Bank transfer,82.46,4885.39,No
+TEL-2514,Male,0,No,Yes,30,Fiber optic,No,Month-to-month,Bank transfer,101.0,3025.75,Yes
+TEL-2515,Male,0,Yes,Yes,12,Fiber optic,Yes,Month-to-month,Credit card,90.09,1079.76,No
+TEL-2516,Female,0,No,Yes,15,DSL,No,Month-to-month,Credit card,57.11,854.62,Yes
+TEL-2517,Male,0,No,No,52,No,No internet service,Two year,Mailed check,20.37,1060.99,No
+TEL-2518,Female,0,Yes,No,50,Fiber optic,Yes,Two year,Credit card,74.34,3721.68,No
+TEL-2519,Male,0,Yes,No,10,No,No internet service,Month-to-month,Mailed check,19.23,194.87,Yes
+TEL-2520,Female,0,Yes,No,45,Fiber optic,Yes,One year,Bank transfer,73.7,3319.29,No
+TEL-2521,Male,0,Yes,No,1,No,No internet service,Month-to-month,Bank transfer,22.27,20.46,No
+TEL-2522,Female,0,No,No,62,Fiber optic,No,Two year,Electronic check,101.52,6295.24,No
+TEL-2523,Male,0,No,No,67,Fiber optic,No,Two year,Bank transfer,92.65,6205.41,No
+TEL-2524,Male,0,No,No,50,DSL,No,Two year,Mailed check,47.24,2343.88,No
+TEL-2525,Male,0,No,No,28,Fiber optic,Yes,Month-to-month,Credit card,82.46,2335.19,No
+TEL-2526,Male,1,Yes,Yes,11,Fiber optic,No,Month-to-month,Electronic check,92.28,1022.36,Yes
+TEL-2527,Female,0,Yes,Yes,19,Fiber optic,No,Month-to-month,Mailed check,102.27,1933.34,Yes
+TEL-2528,Female,0,No,No,0,No,No internet service,Month-to-month,Credit card,20.65, ,No
+TEL-2529,Male,0,Yes,Yes,62,DSL,No,Two year,Electronic check,50.74,3148.18,No
+TEL-2530,Female,0,No,No,54,Fiber optic,No,Two year,Bank transfer,79.68,4289.26,No
+TEL-2531,Male,0,Yes,No,44,DSL,No,Two year,Mailed check,55.27,2426.94,No
+TEL-2532,Female,0,Yes,No,60,DSL,No,Two year,Credit card,51.32,3064.38,No
+TEL-2533,Male,0,No,No,55,Fiber optic,No,One year,Electronic check,99.26,5458.79,Yes
+TEL-2534,Female,0,Yes,Yes,50,Fiber optic,No,One year,Electronic check,92.08,4588.19,No
+TEL-2535,Female,0,No,No,50,Fiber optic,No,Two year,Bank transfer,77.88,3897.88,No
+TEL-2536,Male,0,No,No,48,Fiber optic,No,Two year,Credit card,90.08,4330.66,No
+TEL-2537,Male,1,No,No,37,DSL,Yes,Month-to-month,Bank transfer,64.18,2366.39,No
+TEL-2538,Male,0,No,No,32,Fiber optic,No,Month-to-month,Bank transfer,98.88,3165.77,Yes
+TEL-2539,Male,0,No,No,2,DSL,Yes,Month-to-month,Credit card,57.02,105.24,No
+TEL-2540,Male,0,No,No,57,DSL,No,Two year,Credit card,52.26,2983.94,No
+TEL-2541,Female,1,Yes,No,27,Fiber optic,No,One year,Credit card,93.92,2528.95,Yes
+TEL-2542,Male,0,Yes,Yes,18,DSL,No,Month-to-month,Mailed check,55.24,1002.21,Yes
+TEL-2543,Female,0,No,No,12,Fiber optic,No,One year,Credit card,82.38,970.44,Yes
+TEL-2544,Male,0,Yes,No,47,No,No internet service,One year,Electronic check,18.21,845.82,No
+TEL-2545,Female,0,Yes,No,3,DSL,No,Month-to-month,Bank transfer,61.08,172.15,Yes
+TEL-2546,Female,0,Yes,No,29,No,No internet service,Month-to-month,Mailed check,20.16,586.67,No
+TEL-2547,Male,0,No,No,36,DSL,No,One year,Credit card,56.37,2034.87,No
+TEL-2548,Male,0,No,No,13,Fiber optic,Yes,Month-to-month,Mailed check,83.39,1086.88,Yes
+TEL-2549,Female,0,Yes,No,38,DSL,Yes,One year,Credit card,53.62,2032.47,No
+TEL-2550,Female,0,No,Yes,4,No,No internet service,Month-to-month,Mailed check,18.0,44.05,Yes
+TEL-2551,Male,0,No,No,42,DSL,No,Two year,Bank transfer,66.72,2802.63,No
+TEL-2552,Female,0,No,Yes,28,No,No internet service,One year,Bank transfer,19.05,541.28,No
+TEL-2553,Female,0,No,Yes,34,No,No internet service,One year,Electronic check,18.0,638.81,No
+TEL-2554,Female,0,No,No,53,Fiber optic,No,Two year,Electronic check,92.17,4880.77,No
+TEL-2555,Female,1,Yes,No,7,Fiber optic,No,Month-to-month,Credit card,87.6,606.55,Yes
+TEL-2556,Female,0,No,No,0,DSL,Yes,Month-to-month,Bank transfer,51.82, ,Yes
+TEL-2557,Female,0,Yes,Yes,60,Fiber optic,Yes,Month-to-month,Mailed check,82.36,4944.8,Yes
+TEL-2558,Male,0,No,No,38,No,No internet service,One year,Mailed check,18.8,711.84,No
+TEL-2559,Male,1,No,No,33,No,No internet service,One year,Mailed check,18.0,606.75,No
+TEL-2560,Male,0,Yes,No,14,Fiber optic,No,One year,Electronic check,92.64,1288.88,No
+TEL-2561,Male,0,Yes,No,11,Fiber optic,No,Month-to-month,Mailed check,78.36,859.47,Yes
+TEL-2562,Female,0,No,No,8,DSL,No,Month-to-month,Electronic check,45.74,374.68,No
+TEL-2563,Male,0,Yes,No,5,Fiber optic,Yes,Month-to-month,Electronic check,82.22,414.18,Yes
+TEL-2564,Female,0,No,No,3,No,No internet service,Month-to-month,Credit card,20.9,74.31,No
+TEL-2565,Female,0,Yes,Yes,33,Fiber optic,No,One year,Mailed check,78.79,2595.7,No
+TEL-2566,Male,0,Yes,No,6,DSL,Yes,Month-to-month,Mailed check,59.56,369.99,Yes
+TEL-2567,Male,1,No,No,8,Fiber optic,No,Month-to-month,Bank transfer,102.56,803.84,Yes
+TEL-2568,Female,0,No,No,54,DSL,Yes,Two year,Credit card,68.23,3668.18,No
+TEL-2569,Male,0,No,Yes,5,DSL,Yes,Month-to-month,Bank transfer,65.85,342.04,Yes
+TEL-2570,Male,0,Yes,No,7,DSL,Yes,Month-to-month,Credit card,63.36,443.59,Yes
+TEL-2571,Female,0,No,No,31,Fiber optic,Yes,One year,Mailed check,87.74,2729.15,Yes
+TEL-2572,Female,0,No,No,0,DSL,No,Month-to-month,Electronic check,46.2, ,Yes
+TEL-2573,Female,0,No,Yes,47,No,No internet service,One year,Electronic check,18.0,846.99,Yes
+TEL-2574,Female,0,No,No,41,Fiber optic,No,Two year,Electronic check,115.57,4738.3,No
+TEL-2575,Female,1,No,No,72,Fiber optic,Yes,Two year,Electronic check,87.31,6273.04,No
+TEL-2576,Female,1,Yes,No,11,Fiber optic,No,Month-to-month,Electronic check,92.86,1021.19,Yes
+TEL-2577,Male,0,Yes,Yes,49,DSL,Yes,Two year,Bank transfer,62.49,3075.63,No
+TEL-2578,Male,0,No,No,7,DSL,No,Month-to-month,Credit card,58.1,407.27,Yes
+TEL-2579,Male,1,Yes,No,9,DSL,No,Month-to-month,Mailed check,48.43,442.69,Yes
+TEL-2580,Female,0,No,Yes,9,Fiber optic,No,Month-to-month,Bank transfer,96.97,879.27,Yes
+TEL-2581,Female,1,Yes,Yes,51,Fiber optic,Yes,Two year,Credit card,100.21,5100.58,No
+TEL-2582,Male,0,No,No,1,DSL,No,Month-to-month,Electronic check,52.95,61.52,Yes
+TEL-2583,Male,0,No,Yes,9,DSL,Yes,Month-to-month,Credit card,56.23,502.93,Yes
+TEL-2584,Male,0,Yes,Yes,46,No,No internet service,One year,Credit card,18.23,835.98,No
+TEL-2585,Female,0,Yes,No,7,Fiber optic,No,Month-to-month,Electronic check,95.28,687.94,Yes
+TEL-2586,Male,0,Yes,No,2,DSL,No,Month-to-month,Electronic check,63.27,132.51,Yes
+TEL-2587,Male,0,No,Yes,2,Fiber optic,No,Month-to-month,Electronic check,86.81,167.23,Yes
+TEL-2588,Male,0,No,No,12,Fiber optic,Yes,Month-to-month,Mailed check,78.63,944.21,Yes
+TEL-2589,Female,0,Yes,Yes,12,DSL,Yes,Month-to-month,Electronic check,51.28,615.73,No
+TEL-2590,Male,0,No,Yes,6,DSL,Yes,Month-to-month,Mailed check,64.07,401.28,Yes
+TEL-2591,Male,1,Yes,Yes,38,No,No internet service,One year,Electronic check,21.53,818.53,No
+TEL-2592,Female,0,Yes,No,37,Fiber optic,Yes,Month-to-month,Mailed check,81.12,3023.52,No
+TEL-2593,Female,0,No,Yes,0,Fiber optic,No,Month-to-month,Credit card,85.2, ,Yes
+TEL-2594,Female,0,Yes,Yes,56,DSL,Yes,Two year,Bank transfer,65.74,3668.47,No
+TEL-2595,Female,0,Yes,No,29,DSL,Yes,Month-to-month,Credit card,61.95,1796.23,Yes
+TEL-2596,Female,1,Yes,No,63,Fiber optic,Yes,One year,Credit card,83.44,5249.09,No
+TEL-2597,Male,0,Yes,Yes,0,Fiber optic,No,Month-to-month,Electronic check,101.06, ,Yes
+TEL-2598,Male,0,Yes,No,2,Fiber optic,No,Month-to-month,Mailed check,89.57,174.19,Yes
+TEL-2599,Female,0,Yes,Yes,2,No,No internet service,Month-to-month,Bank transfer,20.84,36.95,No
+TEL-2600,Female,0,No,No,17,Fiber optic,Yes,Month-to-month,Electronic check,93.45,1581.54,Yes
+TEL-2601,Female,0,Yes,No,16,Fiber optic,No,Month-to-month,Electronic check,88.15,1427.7,No
+TEL-2602,Female,1,No,No,8,Fiber optic,No,Month-to-month,Electronic check,76.21,623.91,Yes
+TEL-2603,Male,0,Yes,No,14,Fiber optic,Yes,Month-to-month,Credit card,83.58,1174.15,Yes
+TEL-2604,Male,0,Yes,No,4,Fiber optic,Yes,Month-to-month,Mailed check,81.99,323.22,Yes
+TEL-2605,Female,0,No,Yes,33,DSL,No,Month-to-month,Mailed check,60.45,1988.02,Yes
+TEL-2606,Female,0,No,No,35,Fiber optic,No,Month-to-month,Bank transfer,85.72,3007.62,Yes
+TEL-2607,Female,0,Yes,Yes,19,No,No internet service,Month-to-month,Mailed check,23.08,441.52,Yes
+TEL-2608,Female,0,No,No,25,Fiber optic,No,Month-to-month,Mailed check,80.16,2002.55,Yes
+TEL-2609,Male,0,No,No,43,DSL,No,One year,Electronic check,49.3,2125.31,No
+TEL-2610,Female,0,No,No,13,No,No internet service,Month-to-month,Electronic check,23.37,312.72,No
+TEL-2611,Female,0,No,No,33,DSL,Yes,One year,Credit card,61.22,2018.72,No
+TEL-2612,Male,0,Yes,No,40,DSL,Yes,One year,Electronic check,67.57,2694.93,No
+TEL-2613,Female,0,Yes,No,22,Fiber optic,No,Month-to-month,Electronic check,87.88,1920.15,Yes
+TEL-2614,Male,0,No,Yes,50,Fiber optic,No,Two year,Electronic check,88.47,4426.01,No
+TEL-2615,Female,1,Yes,No,61,DSL,Yes,Two year,Electronic check,54.44,3342.51,No
+TEL-2616,Female,0,No,No,54,No,No internet service,Month-to-month,Credit card,19.2,1025.69,No
+TEL-2617,Male,0,Yes,No,17,DSL,Yes,Month-to-month,Electronic check,72.46,1242.81,No
+TEL-2618,Female,0,Yes,No,64,DSL,Yes,Two year,Bank transfer,62.99,4024.6,No
+TEL-2619,Male,0,No,Yes,33,DSL,No,One year,Bank transfer,45.33,1491.15,No
+TEL-2620,Male,0,Yes,No,4,DSL,Yes,Month-to-month,Bank transfer,41.38,174.67,Yes
+TEL-2621,Male,0,No,No,8,Fiber optic,No,Month-to-month,Bank transfer,89.03,709.69,Yes
+TEL-2622,Female,0,No,Yes,16,DSL,No,Month-to-month,Electronic check,53.9,864.88,Yes
+TEL-2623,Female,0,No,No,6,No,No internet service,Month-to-month,Bank transfer,22.55,137.59,No
+TEL-2624,Male,0,No,No,25,Fiber optic,Yes,One year,Electronic check,87.02,2168.76,Yes
+TEL-2625,Female,0,No,No,16,DSL,No,Month-to-month,Credit card,61.17,987.67,Yes
+TEL-2626,Female,0,No,No,30,Fiber optic,No,Month-to-month,Bank transfer,92.98,2788.78,Yes
+TEL-2627,Female,0,No,Yes,39,DSL,Yes,One year,Mailed check,58.52,2268.39,No
+TEL-2628,Male,1,Yes,No,1,Fiber optic,No,Month-to-month,Bank transfer,88.81,79.89,Yes
+TEL-2629,Male,0,Yes,No,62,DSL,Yes,Month-to-month,Bank transfer,47.3,2901.43,Yes
+TEL-2630,Female,0,Yes,No,40,DSL,Yes,One year,Electronic check,68.14,2726.12,No
+TEL-2631,Male,0,Yes,No,63,Fiber optic,No,Two year,Bank transfer,99.43,6277.13,No
+TEL-2632,Female,1,No,Yes,50,DSL,Yes,Month-to-month,Mailed check,50.24,2501.53,No
+TEL-2633,Female,0,No,Yes,3,DSL,Yes,Month-to-month,Electronic check,71.82,221.32,Yes
+TEL-2634,Female,0,No,No,4,No,No internet service,Month-to-month,Electronic check,18.0,76.31,No
+TEL-2635,Male,0,Yes,No,4,Fiber optic,Yes,Month-to-month,Credit card,94.61,370.92,Yes
+TEL-2636,Male,0,No,No,37,Fiber optic,No,Month-to-month,Credit card,87.66,3258.79,No
+TEL-2637,Female,0,Yes,Yes,49,Fiber optic,No,Month-to-month,Bank transfer,96.79,4739.98,No
+TEL-2638,Male,0,No,No,0,No,No internet service,Month-to-month,Credit card,21.82, ,No
+TEL-2639,Female,0,No,No,4,No,No internet service,Month-to-month,Credit card,20.21,100.94,Yes
+TEL-2640,Male,0,Yes,No,17,DSL,No,Month-to-month,Credit card,47.72,794.88,Yes
+TEL-2641,Male,1,Yes,Yes,5,No,No internet service,Month-to-month,Electronic check,24.93,121.96,No
+TEL-2642,Male,0,Yes,No,5,DSL,No,Month-to-month,Electronic check,59.82,297.6,Yes
+TEL-2643,Female,0,No,No,40,DSL,No,Month-to-month,Electronic check,44.81,1791.99,Yes
+TEL-2644,Female,0,No,No,17,Fiber optic,No,Month-to-month,Credit card,76.62,1309.7,No
+TEL-2645,Female,0,No,No,38,DSL,Yes,Two year,Electronic check,56.27,2172.24,No
+TEL-2646,Male,1,Yes,No,22,Fiber optic,No,One year,Credit card,86.35,1904.25,Yes
+TEL-2647,Female,0,Yes,No,33,No,No internet service,One year,Electronic check,22.05,727.89,No
+TEL-2648,Female,0,No,No,29,DSL,No,One year,Electronic check,42.8,1230.24,No
+TEL-2649,Female,0,No,Yes,3,DSL,No,Month-to-month,Mailed check,56.97,152.01,Yes
+TEL-2650,Female,0,Yes,No,1,Fiber optic,Yes,Month-to-month,Bank transfer,83.46,95.16,No
+TEL-2651,Male,0,Yes,Yes,10,Fiber optic,No,Month-to-month,Credit card,86.66,861.13,Yes
+TEL-2652,Male,0,No,No,15,Fiber optic,Yes,One year,Mailed check,80.58,1234.74,No
+TEL-2653,Female,0,Yes,No,48,Fiber optic,Yes,One year,Electronic check,79.11,3805.96,No
+TEL-2654,Male,0,Yes,No,0,Fiber optic,No,Month-to-month,Credit card,87.5, ,Yes
+TEL-2655,Male,0,Yes,No,15,No,No internet service,Month-to-month,Electronic check,18.0,273.42,No
+TEL-2656,Male,1,No,Yes,1,DSL,Yes,Month-to-month,Bank transfer,56.78,60.72,Yes
+TEL-2657,Male,0,No,No,20,Fiber optic,Yes,Month-to-month,Mailed check,87.87,1761.44,Yes
+TEL-2658,Male,0,No,No,36,Fiber optic,No,One year,Bank transfer,70.0,2513.05,Yes
+TEL-2659,Female,0,No,Yes,47,Fiber optic,No,One year,Mailed check,81.94,3833.66,Yes
+TEL-2660,Male,0,No,No,1,DSL,No,Month-to-month,Electronic check,55.73,50.22,Yes
+TEL-2661,Female,0,Yes,Yes,62,DSL,Yes,Two year,Bank transfer,59.9,3713.62,No
+TEL-2662,Female,0,No,No,23,No,No internet service,One year,Bank transfer,24.72,562.08,No
+TEL-2663,Female,0,Yes,No,1,DSL,Yes,Month-to-month,Electronic check,56.18,43.32,No
+TEL-2664,Male,0,No,Yes,22,No,No internet service,Month-to-month,Bank transfer,18.0,388.52,No
+TEL-2665,Male,0,Yes,No,15,No,No internet service,Month-to-month,Credit card,21.64,334.96,Yes
+TEL-2666,Male,1,Yes,Yes,7,Fiber optic,Yes,Month-to-month,Mailed check,104.39,738.21,Yes
+TEL-2667,Male,0,Yes,Yes,34,No,No internet service,Month-to-month,Mailed check,18.0,613.71,No
+TEL-2668,Female,0,Yes,Yes,35,Fiber optic,No,Month-to-month,Mailed check,78.18,2742.17,Yes
+TEL-2669,Female,0,Yes,No,55,No,No internet service,Month-to-month,Credit card,25.86,1410.98,No
+TEL-2670,Female,0,Yes,No,22,Fiber optic,No,Month-to-month,Mailed check,78.66,1722.57,Yes
+TEL-2671,Male,0,No,No,69,No,No internet service,Two year,Electronic check,18.22,1260.29,No
+TEL-2672,Female,0,Yes,Yes,12,No,No internet service,Month-to-month,Bank transfer,19.58,224.91,No
+TEL-2673,Female,0,No,Yes,18,No,No internet service,Month-to-month,Credit card,18.0,325.08,No
+TEL-2674,Female,0,No,No,0,DSL,Yes,Month-to-month,Mailed check,60.71, ,No
+TEL-2675,Male,0,No,No,51,Fiber optic,No,Two year,Electronic check,99.97,5085.84,No
+TEL-2676,Female,0,No,No,8,Fiber optic,No,Month-to-month,Bank transfer,96.76,757.58,Yes
+TEL-2677,Female,1,No,Yes,2,Fiber optic,No,Month-to-month,Bank transfer,91.62,190.6,Yes
+TEL-2678,Male,0,Yes,No,70,Fiber optic,Yes,Two year,Credit card,104.68,7337.87,No
+TEL-2679,Female,0,Yes,No,48,DSL,No,Two year,Credit card,64.56,3092.57,No
+TEL-2680,Male,0,Yes,No,49,Fiber optic,No,Two year,Credit card,80.76,3942.04,No
+TEL-2681,Female,0,No,No,9,No,No internet service,Month-to-month,Electronic check,18.0,139.92,Yes
+TEL-2682,Male,0,No,Yes,28,DSL,No,Month-to-month,Electronic check,70.53,1993.26,No
+TEL-2683,Male,0,Yes,No,21,No,No internet service,One year,Credit card,20.46,430.77,No
+TEL-2684,Male,0,Yes,No,52,Fiber optic,Yes,Two year,Mailed check,76.77,3985.96,No
+TEL-2685,Female,0,No,No,33,No,No internet service,One year,Bank transfer,23.84,783.08,No
+TEL-2686,Female,0,Yes,No,49,No,No internet service,One year,Bank transfer,21.94,1055.93,No
+TEL-2687,Male,0,No,No,21,DSL,Yes,Month-to-month,Electronic check,63.57,1341.17,No
+TEL-2688,Male,0,No,No,34,DSL,No,One year,Bank transfer,62.66,2150.44,Yes
+TEL-2689,Male,0,No,Yes,8,DSL,No,Month-to-month,Mailed check,62.13,489.21,Yes
+TEL-2690,Male,0,No,No,23,Fiber optic,No,Month-to-month,Bank transfer,91.13,2119.82,No
+TEL-2691,Male,1,No,No,0,DSL,No,Month-to-month,Electronic check,53.91, ,Yes
+TEL-2692,Male,1,No,No,3,Fiber optic,No,Month-to-month,Electronic check,79.41,237.07,Yes
+TEL-2693,Male,0,No,No,2,Fiber optic,No,Month-to-month,Mailed check,81.37,179.41,Yes
+TEL-2694,Male,0,No,Yes,3,Fiber optic,No,Month-to-month,Mailed check,102.5,310.57,Yes
+TEL-2695,Male,0,Yes,No,1,Fiber optic,Yes,One year,Bank transfer,96.93,99.99,Yes
+TEL-2696,Male,1,Yes,No,8,Fiber optic,No,Month-to-month,Bank transfer,104.8,856.84,Yes
+TEL-2697,Male,1,Yes,Yes,12,Fiber optic,Yes,One year,Electronic check,105.45,1273.23,Yes
+TEL-2698,Male,0,Yes,No,11,No,No internet service,Month-to-month,Mailed check,22.07,246.52,Yes
+TEL-2699,Female,0,No,Yes,15,DSL,No,Month-to-month,Mailed check,38.0,550.59,Yes
+TEL-2700,Male,0,No,No,9,No,No internet service,Month-to-month,Mailed check,18.07,147.56,No
+TEL-2701,Female,0,Yes,No,1,Fiber optic,No,Month-to-month,Bank transfer,93.47,98.06,Yes
+TEL-2702,Female,0,Yes,No,21,Fiber optic,No,Month-to-month,Mailed check,99.1,2095.78,No
+TEL-2703,Female,1,No,No,43,DSL,Yes,Month-to-month,Electronic check,71.16,3061.16,No
+TEL-2704,Male,0,Yes,No,12,Fiber optic,Yes,Month-to-month,Electronic check,70.0,834.09,Yes
+TEL-2705,Female,0,Yes,No,72,Fiber optic,No,Two year,Bank transfer,92.14,6615.69,No
+TEL-2706,Male,1,No,No,55,DSL,Yes,Month-to-month,Credit card,45.02,2468.26,No
+TEL-2707,Female,0,No,No,58,Fiber optic,No,Two year,Bank transfer,106.78,6194.55,No
+TEL-2708,Male,0,Yes,No,11,DSL,Yes,Month-to-month,Credit card,51.4,556.84,Yes
+TEL-2709,Male,0,Yes,Yes,26,DSL,No,One year,Mailed check,52.35,1351.46,No
+TEL-2710,Female,0,Yes,No,30,Fiber optic,No,One year,Bank transfer,88.6,2657.49,Yes
+TEL-2711,Female,0,No,Yes,30,Fiber optic,Yes,One year,Electronic check,88.2,2660.48,No
+TEL-2712,Male,0,No,No,7,DSL,Yes,Month-to-month,Mailed check,45.24,323.53,Yes
+TEL-2713,Female,0,Yes,No,14,DSL,No,Month-to-month,Electronic check,48.06,675.7,Yes
+TEL-2714,Male,0,No,No,27,Fiber optic,Yes,Month-to-month,Mailed check,88.09,2380.31,No
+TEL-2715,Male,0,No,No,47,No,No internet service,Two year,Bank transfer,21.51,1016.48,No
+TEL-2716,Male,0,Yes,No,61,Fiber optic,Yes,Two year,Credit card,90.6,5525.5,No
+TEL-2717,Female,0,No,No,59,DSL,Yes,Two year,Mailed check,57.04,3361.25,No
+TEL-2718,Male,0,No,Yes,32,No,No internet service,Month-to-month,Credit card,23.0,743.38,No
+TEL-2719,Male,0,Yes,Yes,27,Fiber optic,No,One year,Mailed check,87.24,2353.23,Yes
+TEL-2720,Male,0,Yes,Yes,39,Fiber optic,Yes,Two year,Electronic check,86.8,3373.31,No
+TEL-2721,Male,0,No,No,17,Fiber optic,Yes,Month-to-month,Electronic check,73.34,1261.21,No
+TEL-2722,Female,0,No,Yes,14,Fiber optic,No,Month-to-month,Mailed check,93.01,1283.44,Yes
+TEL-2723,Female,0,No,No,33,Fiber optic,No,One year,Credit card,88.68,2941.62,Yes
+TEL-2724,Female,0,No,No,37,DSL,Yes,One year,Bank transfer,61.81,2292.03,No
+TEL-2725,Female,1,No,Yes,50,Fiber optic,Yes,Two year,Bank transfer,78.37,3908.81,No
+TEL-2726,Male,0,Yes,No,5,DSL,Yes,Month-to-month,Electronic check,59.69,298.69,No
+TEL-2727,Male,0,No,No,40,No,No internet service,One year,Bank transfer,18.39,731.31,Yes
+TEL-2728,Male,0,Yes,Yes,12,No,No internet service,Month-to-month,Electronic check,19.79,245.56,Yes
+TEL-2729,Male,0,Yes,No,14,DSL,No,Month-to-month,Bank transfer,61.73,872.1,No
+TEL-2730,Male,0,No,No,5,Fiber optic,No,Month-to-month,Mailed check,90.65,457.86,Yes
+TEL-2731,Male,0,No,No,62,DSL,Yes,Two year,Electronic check,48.72,3028.1,No
+TEL-2732,Female,0,Yes,No,31,DSL,No,One year,Electronic check,57.63,1785.38,No
+TEL-2733,Male,0,No,No,14,Fiber optic,No,Month-to-month,Mailed check,87.37,1240.8,Yes
+TEL-2734,Male,0,Yes,No,11,Fiber optic,Yes,Month-to-month,Electronic check,93.7,1042.94,Yes
+TEL-2735,Male,0,Yes,Yes,69,No,No internet service,Two year,Bank transfer,20.27,1393.86,No
+TEL-2736,Female,0,Yes,No,12,Fiber optic,No,Month-to-month,Bank transfer,102.01,1232.23,No
+TEL-2737,Male,1,No,No,44,Fiber optic,No,Two year,Electronic check,108.94,4800.6,No
+TEL-2738,Male,0,No,Yes,6,Fiber optic,No,Month-to-month,Bank transfer,83.02,495.52,Yes
+TEL-2739,Male,0,Yes,No,14,Fiber optic,No,Month-to-month,Credit card,89.15,1244.72,Yes
+TEL-2740,Female,0,No,No,15,No,No internet service,Month-to-month,Electronic check,20.94,326.25,No
+TEL-2741,Male,0,Yes,No,24,DSL,Yes,Month-to-month,Mailed check,52.56,1261.29,No
+TEL-2742,Male,0,No,No,44,DSL,Yes,One year,Credit card,60.66,2671.64,No
+TEL-2743,Female,0,Yes,No,35,Fiber optic,Yes,Month-to-month,Electronic check,90.25,3172.76,Yes
+TEL-2744,Male,0,Yes,No,6,Fiber optic,Yes,Month-to-month,Mailed check,101.16,632.29,Yes
+TEL-2745,Female,0,No,No,45,DSL,Yes,Two year,Bank transfer,62.15,2791.48,No
+TEL-2746,Male,0,Yes,No,4,Fiber optic,Yes,Month-to-month,Mailed check,95.83,381.11,Yes
+TEL-2747,Female,0,Yes,No,8,Fiber optic,No,Month-to-month,Credit card,94.52,756.9,Yes
+TEL-2748,Male,1,No,No,72,DSL,No,Two year,Bank transfer,59.26,4267.69,Yes
+TEL-2749,Male,0,No,No,44,Fiber optic,No,One year,Electronic check,89.45,3939.56,No
+TEL-2750,Female,0,Yes,No,10,DSL,No,Month-to-month,Bank transfer,60.32,598.3,Yes
+TEL-2751,Male,0,Yes,No,33,Fiber optic,Yes,Two year,Electronic check,99.05,3255.99,No
+TEL-2752,Male,0,Yes,No,40,Fiber optic,Yes,One year,Electronic check,109.12,4382.34,No
+TEL-2753,Female,0,No,Yes,29,Fiber optic,No,Month-to-month,Mailed check,82.86,2409.06,No
+TEL-2754,Male,0,Yes,No,69,No,No internet service,Month-to-month,Mailed check,19.75,1358.56,No
+TEL-2755,Female,0,No,No,30,No,No internet service,One year,Mailed check,24.11,727.67,Yes
+TEL-2756,Male,0,No,Yes,35,No,No internet service,One year,Credit card,18.0,648.33,No
+TEL-2757,Female,0,Yes,No,4,DSL,No,Month-to-month,Credit card,63.71,246.96,Yes
+TEL-2758,Male,0,Yes,No,38,Fiber optic,No,Two year,Mailed check,84.17,3200.57,No
+TEL-2759,Male,1,Yes,No,61,DSL,No,One year,Credit card,50.74,3081.24,No
+TEL-2760,Female,0,Yes,Yes,7,DSL,Yes,Month-to-month,Bank transfer,50.41,351.69,Yes
+TEL-2761,Male,0,No,No,8,No,No internet service,Month-to-month,Bank transfer,18.0,150.17,Yes
+TEL-2762,Female,0,Yes,No,17,Fiber optic,No,Month-to-month,Credit card,84.99,1433.68,Yes
+TEL-2763,Female,0,Yes,Yes,27,DSL,Yes,One year,Credit card,43.44,1171.01,No
+TEL-2764,Female,0,No,No,3,Fiber optic,Yes,Month-to-month,Bank transfer,103.97,319.91,No
+TEL-2765,Male,0,Yes,No,11,Fiber optic,Yes,One year,Electronic check,75.95,841.34,Yes
+TEL-2766,Male,0,No,Yes,58,DSL,No,One year,Bank transfer,72.67,4203.28,No
+TEL-2767,Male,0,Yes,No,62,DSL,No,Two year,Bank transfer,53.22,3303.38,No
+TEL-2768,Female,0,No,No,9,Fiber optic,No,Month-to-month,Credit card,82.43,747.46,Yes
+TEL-2769,Female,0,No,No,50,Fiber optic,No,Two year,Bank transfer,86.41,4321.58,No
+TEL-2770,Female,0,No,Yes,12,DSL,Yes,Month-to-month,Credit card,61.69,751.17,Yes
+TEL-2771,Male,0,No,Yes,48,DSL,Yes,Two year,Credit card,53.48,2561.15,No
+TEL-2772,Female,0,Yes,Yes,4,No,No internet service,Month-to-month,Mailed check,20.54,86.28,No
+TEL-2773,Male,0,Yes,No,46,No,No internet service,Month-to-month,Bank transfer,19.58,889.03,No
+TEL-2774,Male,0,No,No,65,DSL,No,One year,Electronic check,50.05,3237.24,No
+TEL-2775,Male,0,No,Yes,5,Fiber optic,No,Month-to-month,Mailed check,83.23,423.96,Yes
+TEL-2776,Male,1,Yes,Yes,9,DSL,Yes,Month-to-month,Credit card,51.03,459.48,Yes
+TEL-2777,Male,0,Yes,No,27,Fiber optic,No,One year,Credit card,100.93,2720.48,Yes
+TEL-2778,Male,0,Yes,No,58,Fiber optic,No,One year,Electronic check,94.2,5452.95,No
+TEL-2779,Male,0,Yes,No,48,No,No internet service,One year,Credit card,18.08,876.11,No
+TEL-2780,Male,0,Yes,No,46,Fiber optic,No,One year,Bank transfer,88.33,4048.1,No
+TEL-2781,Female,0,No,No,3,No,No internet service,Month-to-month,Mailed check,18.0,63.93,Yes
+TEL-2782,Male,1,Yes,Yes,19,DSL,Yes,Month-to-month,Credit card,50.81,969.9,Yes
+TEL-2783,Male,1,Yes,No,6,DSL,Yes,Month-to-month,Credit card,57.62,331.14,Yes
+TEL-2784,Female,0,No,No,12,DSL,No,Month-to-month,Electronic check,59.68,717.42,Yes
+TEL-2785,Female,0,No,No,48,No,No internet service,Two year,Bank transfer,20.21,996.62,No
+TEL-2786,Female,0,No,No,20,DSL,Yes,One year,Credit card,58.13,1174.49,Yes
+TEL-2787,Female,0,No,Yes,1,DSL,Yes,Month-to-month,Electronic check,48.04,39.76,Yes
+TEL-2788,Male,1,Yes,Yes,44,Fiber optic,No,Month-to-month,Credit card,96.22,4240.85,Yes
+TEL-2789,Female,0,No,No,44,DSL,Yes,Two year,Electronic check,52.87,2312.12,No
+TEL-2790,Female,0,No,Yes,15,Fiber optic,Yes,Month-to-month,Electronic check,101.44,1507.89,No
+TEL-2791,Female,1,Yes,Yes,35,DSL,Yes,One year,Bank transfer,55.06,1926.43,Yes
+TEL-2792,Female,0,No,Yes,4,DSL,Yes,Month-to-month,Credit card,60.3,246.72,Yes
+TEL-2793,Male,0,No,Yes,42,DSL,Yes,One year,Bank transfer,57.06,2404.63,No
+TEL-2794,Female,1,Yes,No,3,Fiber optic,Yes,Month-to-month,Electronic check,84.29,261.12,Yes
+TEL-2795,Female,0,Yes,Yes,66,Fiber optic,No,Two year,Mailed check,102.72,6784.47,No
+TEL-2796,Female,0,Yes,No,42,DSL,Yes,Two year,Credit card,72.01,3008.28,No
+TEL-2797,Female,0,Yes,No,34,Fiber optic,No,One year,Mailed check,96.04,3264.75,Yes
+TEL-2798,Male,0,Yes,No,26,Fiber optic,Yes,One year,Credit card,91.72,2394.41,No
+TEL-2799,Female,0,No,Yes,43,Fiber optic,No,Two year,Bank transfer,83.29,3585.9,No
+TEL-2800,Female,0,Yes,No,45,No,No internet service,One year,Bank transfer,23.14,1043.12,No
+TEL-2801,Female,1,No,Yes,20,DSL,Yes,Month-to-month,Bank transfer,61.84,1240.09,Yes
+TEL-2802,Male,0,No,No,29,Fiber optic,No,One year,Bank transfer,77.84,2260.49,Yes
+TEL-2803,Female,0,No,No,50,Fiber optic,No,One year,Bank transfer,101.58,5059.35,No
+TEL-2804,Female,0,No,No,12,Fiber optic,No,Month-to-month,Mailed check,84.8,1029.15,Yes
+TEL-2805,Male,0,Yes,No,32,DSL,Yes,One year,Bank transfer,66.08,2113.45,No
+TEL-2806,Female,0,Yes,No,41,DSL,Yes,Two year,Electronic check,51.39,2114.07,No
+TEL-2807,Male,0,No,No,42,Fiber optic,Yes,Two year,Electronic check,98.75,4124.44,No
+TEL-2808,Male,0,No,No,12,Fiber optic,No,Month-to-month,Mailed check,91.69,1116.89,Yes
+TEL-2809,Female,0,No,No,11,Fiber optic,No,Month-to-month,Credit card,86.99,945.33,Yes
+TEL-2810,Female,0,Yes,No,60,DSL,No,Two year,Electronic check,59.84,3615.81,No
+TEL-2811,Male,0,No,No,56,DSL,No,Two year,Credit card,54.16,3054.15,No
+TEL-2812,Male,0,Yes,No,1,Fiber optic,Yes,Month-to-month,Mailed check,91.18,77.93,Yes
+TEL-2813,Female,0,No,No,72,Fiber optic,No,Two year,Credit card,103.72,7476.01,No
+TEL-2814,Male,0,No,No,58,Fiber optic,Yes,Two year,Credit card,102.02,5906.99,No
+TEL-2815,Male,0,Yes,No,7,No,No internet service,Month-to-month,Credit card,26.0,175.61,Yes
+TEL-2816,Female,0,No,Yes,45,Fiber optic,No,One year,Credit card,88.59,3980.38,No
+TEL-2817,Male,0,Yes,No,12,DSL,Yes,Month-to-month,Mailed check,52.63,636.04,Yes
+TEL-2818,Male,0,Yes,Yes,5,DSL,No,Month-to-month,Electronic check,62.7,316.75,Yes
+TEL-2819,Male,0,No,No,5,Fiber optic,Yes,Month-to-month,Bank transfer,101.6,495.98,Yes
+TEL-2820,Male,0,No,Yes,52,Fiber optic,Yes,Two year,Credit card,91.46,4760.32,No
+TEL-2821,Male,0,No,Yes,12,Fiber optic,No,Month-to-month,Electronic check,99.0,1185.96,Yes
+TEL-2822,Male,0,No,No,13,DSL,No,Month-to-month,Electronic check,56.13,711.48,No
+TEL-2823,Female,0,No,No,13,DSL,No,Month-to-month,Mailed check,60.33,779.95,No
+TEL-2824,Male,0,No,Yes,28,DSL,Yes,Month-to-month,Electronic check,58.26,1647.88,Yes
+TEL-2825,Female,0,No,No,72,DSL,No,Two year,Mailed check,38.0,2732.0,No
+TEL-2826,Female,0,Yes,Yes,11,Fiber optic,No,Month-to-month,Credit card,85.65,923.79,Yes
+TEL-2827,Female,0,No,Yes,2,No,No internet service,Month-to-month,Credit card,20.6,49.34,No
+TEL-2828,Female,0,Yes,No,21,DSL,Yes,One year,Bank transfer,60.58,1262.9,No
+TEL-2829,Female,0,No,No,7,Fiber optic,No,Month-to-month,Bank transfer,85.08,597.7,Yes
+TEL-2830,Female,0,Yes,Yes,14,No,No internet service,Month-to-month,Bank transfer,18.98,264.0,Yes
+TEL-2831,Female,0,Yes,No,31,DSL,Yes,Month-to-month,Electronic check,45.43,1425.95,Yes
+TEL-2832,Female,0,Yes,Yes,27,DSL,No,Month-to-month,Credit card,50.54,1362.87,Yes
+TEL-2833,Male,0,No,No,27,DSL,Yes,Month-to-month,Mailed check,61.69,1654.18,No
+TEL-2834,Female,1,Yes,No,0,No,No internet service,Month-to-month,Bank transfer,18.0, ,No
+TEL-2835,Female,0,Yes,No,5,DSL,No,Month-to-month,Mailed check,66.95,330.06,Yes
+TEL-2836,Female,1,No,No,41,Fiber optic,No,Two year,Mailed check,86.79,3546.1,No
+TEL-2837,Male,0,No,No,0,Fiber optic,No,Month-to-month,Bank transfer,98.57, ,Yes
+TEL-2838,Female,0,Yes,No,53,No,No internet service,One year,Credit card,22.29,1179.28,No
+TEL-2839,Male,0,Yes,Yes,16,Fiber optic,Yes,One year,Bank transfer,98.49,1593.54,No
+TEL-2840,Female,1,Yes,No,11,Fiber optic,No,Month-to-month,Mailed check,104.16,1158.24,Yes
+TEL-2841,Female,0,Yes,No,23,Fiber optic,No,One year,Bank transfer,99.18,2301.55,No
+TEL-2842,Male,0,No,Yes,0,Fiber optic,No,Month-to-month,Mailed check,104.67, ,Yes
+TEL-2843,Female,0,No,Yes,39,DSL,Yes,Two year,Mailed check,62.28,2433.71,No
+TEL-2844,Male,0,No,No,9,No,No internet service,Month-to-month,Bank transfer,20.91,189.62,Yes
+TEL-2845,Male,0,Yes,No,53,Fiber optic,Yes,Month-to-month,Electronic check,71.7,3790.12,No
+TEL-2846,Female,0,No,Yes,34,Fiber optic,No,Month-to-month,Bank transfer,110.08,3745.42,Yes
+TEL-2847,Female,0,No,Yes,56,Fiber optic,No,Two year,Electronic check,78.05,4369.5,No
+TEL-2848,Male,0,No,No,12,No,No internet service,Month-to-month,Mailed check,18.0,223.79,No
+TEL-2849,Male,0,No,No,26,DSL,Yes,One year,Mailed check,56.21,1450.24,No
+TEL-2850,Female,0,No,No,1,Fiber optic,Yes,Month-to-month,Electronic check,92.58,93.11,No
+TEL-2851,Female,0,No,No,31,No,No internet service,One year,Mailed check,18.0,542.27,No
+TEL-2852,Female,1,Yes,Yes,6,No,No internet service,Month-to-month,Electronic check,20.05,123.68,No
+TEL-2853,Male,0,No,No,36,No,No internet service,Two year,Electronic check,18.0,654.76,No
+TEL-2854,Female,0,No,No,6,No,No internet service,Month-to-month,Mailed check,19.99,103.72,No
+TEL-2855,Male,0,No,No,1,Fiber optic,No,Month-to-month,Credit card,104.6,91.2,Yes
+TEL-2856,Female,0,Yes,Yes,3,DSL,No,Month-to-month,Electronic check,54.51,150.57,Yes
+TEL-2857,Male,0,No,No,8,DSL,Yes,Month-to-month,Bank transfer,51.27,408.38,Yes
+TEL-2858,Male,0,No,No,41,No,No internet service,One year,Bank transfer,20.77,837.6,No
+TEL-2859,Female,0,Yes,No,23,DSL,Yes,Month-to-month,Mailed check,53.5,1244.28,No
+TEL-2860,Male,0,Yes,No,35,DSL,Yes,One year,Credit card,52.28,1834.16,No
+TEL-2861,Male,0,No,Yes,26,DSL,No,Month-to-month,Mailed check,52.45,1369.69,Yes
+TEL-2862,Male,0,No,No,9,Fiber optic,No,Month-to-month,Credit card,74.15,651.46,Yes
+TEL-2863,Male,0,No,No,1,DSL,No,Month-to-month,Electronic check,56.09,69.02,Yes
+TEL-2864,Male,1,Yes,No,7,No,No internet service,Month-to-month,Electronic check,18.0,132.5,No
+TEL-2865,Female,0,No,No,38,No,No internet service,One year,Electronic check,22.56,850.46,No
+TEL-2866,Female,0,Yes,No,3,Fiber optic,Yes,Month-to-month,Electronic check,99.28,282.42,Yes
+TEL-2867,Male,0,Yes,No,5,Fiber optic,Yes,Month-to-month,Bank transfer,83.34,415.94,Yes
+TEL-2868,Female,0,Yes,No,66,Fiber optic,Yes,Two year,Bank transfer,79.02,5210.66,No
+TEL-2869,Male,0,Yes,Yes,72,DSL,No,Two year,Mailed check,58.99,4243.03,No
+TEL-2870,Male,0,Yes,No,1,No,No internet service,Month-to-month,Credit card,26.0,18.95,No
+TEL-2871,Female,0,Yes,No,6,Fiber optic,Yes,Month-to-month,Electronic check,105.93,642.79,Yes
+TEL-2872,Male,0,Yes,No,39,DSL,Yes,One year,Electronic check,54.68,2106.51,No
+TEL-2873,Male,0,Yes,No,3,No,No internet service,Month-to-month,Credit card,18.33,69.29,No
+TEL-2874,Male,0,No,No,40,DSL,Yes,Month-to-month,Credit card,78.06,3132.38,No
+TEL-2875,Female,0,No,No,9,DSL,No,Month-to-month,Mailed check,71.92,649.39,No
+TEL-2876,Female,0,Yes,No,34,DSL,No,One year,Credit card,65.93,2240.18,No
+TEL-2877,Male,0,No,No,40,DSL,Yes,One year,Electronic check,57.17,2297.63,No
+TEL-2878,Male,0,Yes,No,17,Fiber optic,Yes,Month-to-month,Electronic check,92.99,1580.41,No
+TEL-2879,Male,0,No,Yes,11,DSL,No,Month-to-month,Electronic check,71.39,782.51,Yes
+TEL-2880,Male,0,Yes,Yes,9,DSL,Yes,Month-to-month,Electronic check,46.98,434.21,No
+TEL-2881,Male,0,Yes,No,55,No,No internet service,One year,Electronic check,25.72,1435.53,No
+TEL-2882,Female,0,No,Yes,6,DSL,Yes,Month-to-month,Mailed check,58.68,342.37,Yes
+TEL-2883,Female,0,No,Yes,10,DSL,Yes,Month-to-month,Electronic check,56.37,567.95,Yes
+TEL-2884,Female,0,No,No,72,Fiber optic,No,One year,Mailed check,90.9,6533.94,No
+TEL-2885,Female,1,No,No,15,DSL,Yes,Month-to-month,Electronic check,57.59,868.87,No
+TEL-2886,Male,0,No,No,50,Fiber optic,No,One year,Bank transfer,98.29,4906.72,No
+TEL-2887,Male,0,Yes,No,24,Fiber optic,Yes,Month-to-month,Bank transfer,88.8,2143.32,Yes
+TEL-2888,Female,0,Yes,No,4,DSL,No,Month-to-month,Bank transfer,60.22,239.88,Yes
+TEL-2889,Female,0,Yes,No,1,No,No internet service,Month-to-month,Bank transfer,18.0,18.46,Yes
+TEL-2890,Male,0,Yes,Yes,27,Fiber optic,Yes,One year,Mailed check,94.56,2569.43,No
+TEL-2891,Female,1,No,No,68,Fiber optic,No,Two year,Mailed check,81.68,5546.91,No
+TEL-2892,Male,1,No,No,52,No,No internet service,Two year,Credit card,23.4,1223.65,Yes
+TEL-2893,Male,0,Yes,No,43,Fiber optic,No,Month-to-month,Electronic check,101.33,4350.86,No
+TEL-2894,Male,1,No,No,40,DSL,Yes,One year,Bank transfer,61.21,2460.36,No
+TEL-2895,Female,1,No,No,45,DSL,No,Month-to-month,Mailed check,63.75,2886.62,No
+TEL-2896,Female,0,Yes,Yes,12,DSL,Yes,Month-to-month,Electronic check,72.56,868.09,No
+TEL-2897,Female,1,Yes,No,55,Fiber optic,No,Two year,Electronic check,82.97,4541.41,No
+TEL-2898,Female,0,Yes,No,12,Fiber optic,Yes,Month-to-month,Mailed check,89.96,1072.64,Yes
+TEL-2899,Female,0,Yes,No,10,DSL,No,Month-to-month,Bank transfer,52.75,551.83,No
+TEL-2900,Male,0,Yes,Yes,1,DSL,Yes,Month-to-month,Credit card,59.46,53.54,Yes
+TEL-2901,Female,0,No,No,32,Fiber optic,No,Month-to-month,Electronic check,82.74,2665.39,Yes
+TEL-2902,Male,1,Yes,No,30,DSL,Yes,Month-to-month,Credit card,69.49,2078.64,Yes
+TEL-2903,Male,0,Yes,Yes,26,Fiber optic,No,One year,Bank transfer,90.63,2350.07,Yes
+TEL-2904,Male,0,No,No,0,DSL,Yes,Month-to-month,Bank transfer,64.16, ,Yes
+TEL-2905,Female,0,No,No,44,Fiber optic,No,Two year,Credit card,104.62,4611.07,No
+TEL-2906,Female,1,No,No,54,No,No internet service,Two year,Bank transfer,26.0,1410.59,No
+TEL-2907,Female,1,Yes,No,9,Fiber optic,Yes,Month-to-month,Electronic check,76.92,700.8,Yes
+TEL-2908,Female,0,Yes,No,14,Fiber optic,Yes,Month-to-month,Credit card,89.09,1247.31,Yes
+TEL-2909,Female,0,No,No,20,Fiber optic,Yes,Month-to-month,Bank transfer,79.45,1599.34,No
+TEL-2910,Female,0,Yes,No,25,Fiber optic,No,One year,Credit card,90.09,2261.87,No
+TEL-2911,Female,0,Yes,Yes,14,No,No internet service,Month-to-month,Electronic check,18.0,263.49,No
+TEL-2912,Female,0,No,No,34,No,No internet service,One year,Bank transfer,20.22,681.24,No
+TEL-2913,Male,0,No,Yes,2,Fiber optic,No,Month-to-month,Electronic check,80.92,172.18,Yes
+TEL-2914,Female,0,Yes,Yes,21,Fiber optic,Yes,One year,Bank transfer,106.89,2239.48,Yes
+TEL-2915,Male,0,No,No,10,DSL,Yes,Month-to-month,Mailed check,51.65,514.93,Yes
+TEL-2916,Male,0,Yes,No,7,No,No internet service,Month-to-month,Bank transfer,20.76,143.54,Yes
+TEL-2917,Male,0,Yes,No,56,DSL,No,Two year,Credit card,61.8,3450.82,No
+TEL-2918,Male,0,Yes,No,43,Fiber optic,No,One year,Bank transfer,77.06,3296.22,No
+TEL-2919,Female,0,Yes,No,10,Fiber optic,No,Month-to-month,Electronic check,86.53,877.54,No
+TEL-2920,Female,0,Yes,Yes,52,DSL,Yes,Two year,Electronic check,54.29,2816.06,No
+TEL-2921,Male,0,No,No,9,Fiber optic,Yes,Month-to-month,Bank transfer,85.2,764.1,Yes
+TEL-2922,Male,0,No,No,59,DSL,Yes,Two year,Credit card,54.39,3201.7,No
+TEL-2923,Male,0,No,No,22,Fiber optic,No,One year,Mailed check,82.05,1802.53,Yes
+TEL-2924,Female,0,Yes,No,22,DSL,Yes,Month-to-month,Credit card,69.36,1520.86,No
+TEL-2925,Male,0,Yes,No,18,Fiber optic,No,Month-to-month,Mailed check,94.71,1717.57,Yes
+TEL-2926,Male,0,Yes,No,2,DSL,No,Month-to-month,Electronic check,56.15,106.39,Yes
+TEL-2927,Female,0,Yes,Yes,3,DSL,No,Month-to-month,Credit card,66.48,216.59,Yes
+TEL-2928,Male,1,Yes,No,28,DSL,Yes,One year,Mailed check,71.82,2022.35,Yes
+TEL-2929,Female,0,No,No,14,Fiber optic,No,Month-to-month,Bank transfer,86.57,1207.24,Yes
+TEL-2930,Female,0,No,No,8,DSL,No,Month-to-month,Electronic check,61.76,497.28,Yes
+TEL-2931,Male,1,No,Yes,72,DSL,No,Two year,Bank transfer,62.58,4510.95,No
+TEL-2932,Male,0,Yes,No,58,DSL,No,Two year,Electronic check,55.5,3227.42,No
+TEL-2933,Male,0,No,Yes,1,DSL,No,Month-to-month,Credit card,51.63,61.03,No
+TEL-2934,Female,0,Yes,No,2,DSL,Yes,Month-to-month,Credit card,61.51,124.89,No
+TEL-2935,Female,0,Yes,No,7,No,No internet service,Month-to-month,Electronic check,23.0,151.46,Yes
+TEL-2936,Female,0,Yes,Yes,4,Fiber optic,No,Month-to-month,Electronic check,118.0,478.41,Yes
+TEL-2937,Male,0,No,No,60,No,No internet service,Two year,Electronic check,24.72,1480.83,No
+TEL-2938,Male,1,No,Yes,0,DSL,No,Month-to-month,Credit card,61.26, ,Yes
+TEL-2939,Male,1,Yes,No,44,Fiber optic,No,One year,Mailed check,80.39,3509.27,No
+TEL-2940,Male,0,No,No,4,Fiber optic,No,Month-to-month,Bank transfer,71.81,291.14,Yes
+TEL-2941,Male,0,No,Yes,49,Fiber optic,No,One year,Bank transfer,89.12,4359.54,No
+TEL-2942,Male,0,Yes,Yes,39,DSL,Yes,One year,Credit card,64.26,2501.56,Yes
+TEL-2943,Female,1,Yes,No,45,DSL,Yes,Two year,Bank transfer,57.84,2602.86,No
+TEL-2944,Female,1,Yes,Yes,16,DSL,Yes,Month-to-month,Electronic check,56.02,880.78,No
+TEL-2945,Female,0,No,Yes,5,DSL,Yes,Month-to-month,Mailed check,55.39,278.34,Yes
+TEL-2946,Male,0,Yes,No,3,Fiber optic,No,Month-to-month,Bank transfer,79.21,234.46,Yes
+TEL-2947,Female,0,No,No,66,Fiber optic,Yes,Two year,Mailed check,99.71,6572.09,No
+TEL-2948,Female,0,Yes,No,56,Fiber optic,Yes,Two year,Electronic check,84.19,4715.1,No
+TEL-2949,Female,0,No,Yes,44,Fiber optic,No,One year,Bank transfer,91.85,4024.5,No
+TEL-2950,Male,0,Yes,Yes,41,Fiber optic,No,One year,Credit card,90.2,3698.96,No
+TEL-2951,Male,0,No,Yes,32,Fiber optic,No,One year,Mailed check,103.77,3325.35,No
+TEL-2952,Female,0,No,Yes,2,DSL,Yes,Month-to-month,Electronic check,49.49,102.03,Yes
+TEL-2953,Male,0,No,No,65,DSL,Yes,Two year,Mailed check,50.72,3304.69,No
+TEL-2954,Male,1,No,No,2,No,No internet service,Month-to-month,Bank transfer,22.78,57.21,Yes
+TEL-2955,Male,0,Yes,Yes,3,No,No internet service,Month-to-month,Bank transfer,19.1,56.49,Yes
+TEL-2956,Male,0,No,No,49,DSL,No,Month-to-month,Credit card,39.39,1941.06,No
+TEL-2957,Female,0,Yes,No,5,Fiber optic,Yes,Month-to-month,Electronic check,113.67,567.5,Yes
+TEL-2958,Male,0,Yes,No,27,DSL,Yes,Month-to-month,Electronic check,51.12,1373.25,Yes
+TEL-2959,Female,0,No,No,39,DSL,Yes,One year,Credit card,64.7,2519.37,No
+TEL-2960,Female,0,Yes,No,0,Fiber optic,No,Month-to-month,Credit card,90.5, ,No
+TEL-2961,Male,0,No,Yes,55,Fiber optic,No,One year,Electronic check,70.0,3852.67,No
+TEL-2962,Male,0,No,Yes,30,No,No internet service,Month-to-month,Mailed check,21.09,643.55,Yes
+TEL-2963,Male,0,Yes,No,35,Fiber optic,Yes,Month-to-month,Mailed check,87.72,3070.21,Yes
+TEL-2964,Female,0,No,Yes,4,DSL,No,Month-to-month,Credit card,62.98,245.18,No
+TEL-2965,Female,0,Yes,No,32,DSL,Yes,Month-to-month,Mailed check,58.18,1876.2,Yes
+TEL-2966,Female,0,Yes,No,7,Fiber optic,No,One year,Electronic check,96.67,662.34,Yes
+TEL-2967,Female,0,Yes,No,7,Fiber optic,No,Month-to-month,Bank transfer,80.23,554.94,Yes
+TEL-2968,Female,0,No,No,55,Fiber optic,No,One year,Bank transfer,92.78,5111.83,No
+TEL-2969,Female,0,No,No,6,Fiber optic,No,Month-to-month,Mailed check,82.36,511.82,Yes
+TEL-2970,Female,0,No,No,34,Fiber optic,No,One year,Credit card,93.18,3172.93,Yes
+TEL-2971,Male,0,No,No,42,No,No internet service,Two year,Credit card,23.27,979.84,No
+TEL-2972,Female,0,Yes,Yes,52,Fiber optic,No,One year,Credit card,110.22,5728.53,No
+TEL-2973,Female,0,Yes,No,5,DSL,No,Month-to-month,Credit card,56.02,285.58,No
+TEL-2974,Female,0,No,Yes,15,Fiber optic,No,Month-to-month,Credit card,90.73,1362.24,Yes
+TEL-2975,Female,0,No,No,62,No,No internet service,Month-to-month,Mailed check,18.13,1116.51,No
+TEL-2976,Male,1,Yes,No,47,Fiber optic,No,One year,Bank transfer,87.26,4098.13,No
+TEL-2977,Female,0,Yes,No,14,Fiber optic,Yes,Month-to-month,Bank transfer,78.37,1088.51,Yes
+TEL-2978,Female,0,No,No,8,No,No internet service,Month-to-month,Mailed check,21.62,173.1,Yes
+TEL-2979,Male,0,No,No,34,No,No internet service,One year,Credit card,18.95,645.92,No
+TEL-2980,Male,0,Yes,No,1,Fiber optic,No,Month-to-month,Mailed check,106.1,122.44,Yes
+TEL-2981,Female,0,Yes,Yes,50,No,No internet service,One year,Bank transfer,26.0,1294.03,No
+TEL-2982,Female,0,No,No,25,DSL,Yes,Month-to-month,Electronic check,58.37,1457.44,No
+TEL-2983,Female,1,No,No,10,DSL,No,Month-to-month,Mailed check,45.8,470.59,No
+TEL-2984,Female,0,Yes,No,21,Fiber optic,No,One year,Credit card,105.29,2229.14,Yes
+TEL-2985,Female,0,No,No,0,Fiber optic,Yes,Month-to-month,Bank transfer,91.34, ,Yes
+TEL-2986,Female,0,Yes,Yes,50,DSL,No,One year,Bank transfer,50.53,2531.25,Yes
+TEL-2987,Male,0,Yes,No,3,DSL,Yes,Month-to-month,Bank transfer,60.9,180.16,Yes
+TEL-2988,Male,0,No,No,40,Fiber optic,No,Month-to-month,Bank transfer,73.43,2932.47,Yes
+TEL-2989,Female,0,No,No,37,DSL,No,Two year,Credit card,49.02,1795.31,No
+TEL-2990,Female,0,Yes,Yes,39,DSL,Yes,One year,Electronic check,53.28,2068.64,No
+TEL-2991,Female,0,No,No,34,Fiber optic,Yes,One year,Bank transfer,70.0,2381.02,Yes
+TEL-2992,Male,1,No,No,7,DSL,No,Month-to-month,Mailed check,67.51,470.76,Yes
+TEL-2993,Female,1,No,Yes,43,Fiber optic,No,One year,Electronic check,98.46,4240.01,Yes
+TEL-2994,Male,0,No,No,32,DSL,Yes,Month-to-month,Bank transfer,51.42,1643.49,No
+TEL-2995,Male,0,No,No,27,DSL,No,Month-to-month,Electronic check,61.17,1644.33,Yes
+TEL-2996,Female,1,No,No,56,No,No internet service,Two year,Mailed check,18.23,1024.29,No
+TEL-2997,Male,1,Yes,No,18,Fiber optic,No,Month-to-month,Bank transfer,90.43,1652.79,Yes
+TEL-2998,Female,0,Yes,No,64,Fiber optic,Yes,Two year,Mailed check,94.17,6023.71,No
+TEL-2999,Male,0,Yes,No,2,Fiber optic,No,Month-to-month,Credit card,84.77,170.93,Yes
